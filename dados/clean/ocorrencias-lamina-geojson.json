@@ -1,0 +1,4797 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2049368,
+          -22.9614293
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 67085,
+        "bairro": "Lagoa",
+        "data_inicio": "2021-10-19 21:36:55+00:00",
+        "data_fim": "2021-10-20 01:09:07+00:00",
+        "prazo": "Curto",
+        "descricao": "Rua professor abelardo lóbo - alt praça marcos tamoyo - lagoa",
+        "gravidade": "Baixo",
+        "latitude": -22.9614293,
+        "longitude": -43.2049368,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2021-10-19",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.185857,
+          -22.970552
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 67094,
+        "bairro": "Copacabana",
+        "data_inicio": "2021-10-20 05:55:16+00:00",
+        "data_fim": "2021-10-20 08:41:32+00:00",
+        "prazo": "Curto",
+        "descricao": "Rua figueiredo de magalhães, alt. r. tonelero - copacabana",
+        "gravidade": "Baixo",
+        "latitude": -22.970552,
+        "longitude": -43.185857,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2021-10-20",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.20018719999999,
+          -22.9087246
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 67110,
+        "bairro": "Cidade nova",
+        "data_inicio": "2021-10-20 09:12:00+00:00",
+        "data_fim": "2021-10-20 11:44:16+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. pres. vargas - alt. cedae - cidade nova - sent. candelária",
+        "gravidade": "Baixo",
+        "latitude": -22.9087246,
+        "longitude": -43.20018719999999,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2021-10-20",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.35888239472047,
+          -23.00026877838556
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 67107,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2021-10-20 08:33:35+00:00",
+        "data_fim": "2021-10-20 11:44:18+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. das américas - alt. barra shopping - barra da tijuca - sent. são conrado",
+        "gravidade": "Baixo",
+        "latitude": -23.00026877838556,
+        "longitude": -43.35888239472047,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2021-10-20",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3715151,
+          -22.9998852
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 66805,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2021-10-11 08:20:42+00:00",
+        "data_fim": "2021-10-11 11:55:52+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. das américas - alt. bosque da barra - barra da tijuca",
+        "gravidade": "Baixo",
+        "latitude": -22.9998852,
+        "longitude": -43.3715151,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2021-10-11",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.217649600000016,
+          -22.967569
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 42774,
+        "bairro": "Lagoa",
+        "data_inicio": "2019-05-15 02:58:51+00:00",
+        "data_fim": "2019-05-15 09:57:15+00:00",
+        "prazo": "Curto",
+        "descricao": "R. gen. garzon, 1746 - alt. borges de medeiros",
+        "gravidade": "Baixo",
+        "latitude": -22.967569,
+        "longitude": -43.217649600000016,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2019-05-15",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.259643400000016,
+          -22.9961518
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 42830,
+        "bairro": "Gávea",
+        "data_inicio": "2019-05-15 23:08:07+00:00",
+        "data_fim": "2019-05-16 01:17:14+00:00",
+        "prazo": "Curto",
+        "descricao": "Estr. da gávea, 999 - gávea",
+        "gravidade": "Baixo",
+        "latitude": -22.9961518,
+        "longitude": -43.259643400000016,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2019-05-15",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.30481520000001,
+          -22.9964851
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 42872,
+        "bairro": "Itanhangá",
+        "data_inicio": "2019-05-17 00:08:37+00:00",
+        "data_fim": "2019-05-17 07:00:56+00:00",
+        "prazo": "Curto",
+        "descricao": "Estrada da barra da tijuca, 3163 - itanhangá",
+        "gravidade": "Baixo",
+        "latitude": -22.9964851,
+        "longitude": -43.30481520000001,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2019-05-17",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.304010000000005,
+          -23.0050664
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 42763,
+        "bairro": "Itanhangá",
+        "data_inicio": "2019-05-15 00:09:14+00:00",
+        "data_fim": "2019-05-15 11:28:48+00:00",
+        "prazo": "Curto",
+        "descricao": "Estrada da barra da tijuca, 1000 - itanhangá",
+        "gravidade": "Baixo",
+        "latitude": -23.0050664,
+        "longitude": -43.304010000000005,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2019-05-15",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3624727142639,
+          -22.972132818189703
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 42762,
+        "bairro": "Jacarepaguá",
+        "data_inicio": "2019-05-15 00:00:52+00:00",
+        "data_fim": "2019-05-15 07:20:03+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. ayrton senna, 300 - barra da tijuca",
+        "gravidade": "Baixo",
+        "latitude": -22.972132818189703,
+        "longitude": -43.3624727142639,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2019-05-15",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.25479610000002,
+          -22.9932812
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 42881,
+        "bairro": "São conrado",
+        "data_inicio": "2019-05-17 07:36:00+00:00",
+        "data_fim": "2019-05-17 17:28:17+00:00",
+        "prazo": "Curto",
+        "descricao": "R. gen. olímpio mourão filho, 30 - são conrado",
+        "gravidade": "Baixo",
+        "latitude": -22.9932812,
+        "longitude": -43.25479610000002,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2019-05-17",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.308531000000016,
+          -23.0070572
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 42831,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2019-05-15 23:12:48+00:00",
+        "data_fim": "2019-05-16 01:27:35+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. armando lombardi, 452 - barra da tijuca",
+        "gravidade": "Baixo",
+        "latitude": -23.0070572,
+        "longitude": -43.308531000000016,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2019-05-15",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.310663,
+          -23.0066958
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 79781,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2022-08-24 02:37:01+00:00",
+        "data_fim": "2022-08-24 05:45:42+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. armando lombardi - alt. jardim oceânico - barra da tijuca - sent. são conrado.",
+        "gravidade": "Baixo",
+        "latitude": -23.0066958,
+        "longitude": -43.310663,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2022-08-24",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.22651129999997,
+          -22.9753864
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 47892,
+        "bairro": "Gávea",
+        "data_inicio": "2019-11-11 10:43:53+00:00",
+        "data_fim": "2019-11-11 14:42:03+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. rodrigo otávio - alt. pça. santos dumont - gávea - sent. túnel rebouças",
+        "gravidade": "Medio",
+        "latitude": -22.9753864,
+        "longitude": -43.22651129999997,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2019-11-11",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.23510599999997,
+          -22.8854607
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 48140,
+        "bairro": "Manguinhos",
+        "data_inicio": "2019-11-19 04:36:50+00:00",
+        "data_fim": "2019-11-19 09:24:53+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. brasil - alt. viad. ataulfo alves  - manguinhos - sent. z. oeste",
+        "gravidade": "Baixo",
+        "latitude": -22.8854607,
+        "longitude": -43.23510599999997,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2019-11-19",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2629,
+          -22.99727
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 48451,
+        "bairro": "São conrado",
+        "data_inicio": "2019-11-28 16:44:50+00:00",
+        "data_fim": "2019-11-28 18:47:20+00:00",
+        "prazo": "Curto",
+        "descricao": "Estr. fernando mac dowell - alt. gávea golf clube - são conrado - sent. gávea",
+        "gravidade": "Baixo",
+        "latitude": -22.99727,
+        "longitude": -43.2629,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2019-11-28",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.35469739999997,
+          -22.9645664
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 47894,
+        "bairro": "Gardênia azul",
+        "data_inicio": "2019-11-11 11:16:57+00:00",
+        "data_fim": "2019-11-11 12:39:21+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. ayrton senna - alt. uptown - sent. linha amarela",
+        "gravidade": "Baixo",
+        "latitude": -22.9645664,
+        "longitude": -43.35469739999997,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2019-11-11",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3106674,
+          -23.0066933
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 48143,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2019-11-19 06:14:03+00:00",
+        "data_fim": "2019-11-19 06:56:44+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. armando lombardi - alt. barra pont - barra da tijuca - sent. recreio",
+        "gravidade": "Baixo",
+        "latitude": -23.0066933,
+        "longitude": -43.3106674,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2019-11-19",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.29781120000001,
+          -23.0129114
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 48450,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2019-11-28 16:37:40+00:00",
+        "data_fim": "2019-11-28 18:47:22+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. ministro ivan lins - alt. rua deodato de moraes - barra da tijuca",
+        "gravidade": "Baixo",
+        "latitude": -23.0129114,
+        "longitude": -43.29781120000001,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2019-11-28",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.30857209999999,
+          -23.0062772
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 48453,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2019-11-28 17:15:56+00:00",
+        "data_fim": "2019-11-28 18:47:15+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. armando lombardi - alt. barra point - barra da tijuca - sent. recreio",
+        "gravidade": "Baixo",
+        "latitude": -23.0062772,
+        "longitude": -43.30857209999999,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2019-11-28",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.23782040000003,
+          -22.9185506
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 25351,
+        "bairro": "Sem bairro",
+        "data_inicio": "2018-03-08 10:21:50+00:00",
+        "data_fim": "2018-03-08 17:07:06+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "R. ribeiro guimarães, 367 - v. isabel - alt. r. das artistas ",
+        "gravidade": "Baixo",
+        "latitude": -22.9185506,
+        "longitude": -43.23782040000003,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2018-03-08",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.24063380000001,
+          -22.9128414
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 25360,
+        "bairro": "Sem bairro",
+        "data_inicio": "2018-03-08 12:00:48+00:00",
+        "data_fim": "2018-03-08 17:04:20+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "R. justiniano da rocha - vila isabel",
+        "gravidade": "Baixo",
+        "latitude": -22.9128414,
+        "longitude": -43.24063380000001,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2018-03-08",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.17852449999999,
+          -22.9311212
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 60628,
+        "bairro": "Catete",
+        "data_inicio": "2021-02-05 19:48:16+00:00",
+        "data_fim": "2021-02-05 20:59:32+00:00",
+        "prazo": "Curto",
+        "descricao": "Largo do machado - alt. da rua bento lisboa - catete",
+        "gravidade": "Baixo",
+        "latitude": -22.9311212,
+        "longitude": -43.17852449999999,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2021-02-05",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2049704,
+          -22.9865649
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 60637,
+        "bairro": "Ipanema",
+        "data_inicio": "2021-02-05 23:58:43+00:00",
+        "data_fim": "2021-02-06 05:03:22+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. vieira souto - alt. da r. garcia d` ávila - ipanema - sent. leblon",
+        "gravidade": "Baixo",
+        "latitude": -22.9865649,
+        "longitude": -43.2049704,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2021-02-05",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.58396279999999,
+          -22.9107764
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 60754,
+        "bairro": "Inhoaíba",
+        "data_inicio": "2021-02-08 20:03:23+00:00",
+        "data_fim": "2021-02-08 23:19:33+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. cesário de melo - alt. da upa do cesarão - inhoaíba - sent. campo grande",
+        "gravidade": "Baixo",
+        "latitude": -22.9107764,
+        "longitude": -43.58396279999999,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2021-02-08",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2111475,
+          -22.9613501
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 56385,
+        "bairro": "Lagoa",
+        "data_inicio": "2020-09-22 06:43:46+00:00",
+        "data_fim": "2020-09-22 17:08:47+00:00",
+        "prazo": "Curto",
+        "descricao": "R. jardim botânico, 313 - lagoa - sent. gávea",
+        "gravidade": "Baixo",
+        "latitude": -22.9613501,
+        "longitude": -43.2111475,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-09-22",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2024392,
+          -22.9797182
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 56391,
+        "bairro": "Lagoa",
+        "data_inicio": "2020-09-22 08:28:25+00:00",
+        "data_fim": "2020-09-22 17:06:18+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. epitácio pessoa, alt. r. vinicius de moraes - lagoa - sent. rebouças",
+        "gravidade": "Baixo",
+        "latitude": -22.9797182,
+        "longitude": -43.2024392,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-09-22",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.202797,
+          -22.9637019
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 55803,
+        "bairro": "Lagoa",
+        "data_inicio": "2020-09-02 06:43:44+00:00",
+        "data_fim": "2020-09-02 10:18:14+00:00",
+        "prazo": "Curto",
+        "descricao": "R. fonte da saudade - alt. rua humaitá - lagoa",
+        "gravidade": "Baixo",
+        "latitude": -22.9637019,
+        "longitude": -43.202797,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-09-02",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2176378,
+          -22.9728162
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 56427,
+        "bairro": "Lagoa",
+        "data_inicio": "2020-09-22 13:19:20+00:00",
+        "data_fim": "2020-09-23 16:30:07+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. borges de medeiros, alt. parque dos patins - lagoa - ambos os sentidos",
+        "gravidade": "Baixo",
+        "latitude": -22.9728162,
+        "longitude": -43.2176378,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-09-22",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3571515,
+          -22.9536119
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 55800,
+        "bairro": "Jacarepaguá",
+        "data_inicio": "2020-09-02 06:17:02+00:00",
+        "data_fim": "2020-09-02 14:44:55+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. ayrton senna - giro do cebolinha  - jacarepaguá - sent. cidade de deus",
+        "gravidade": "Baixo",
+        "latitude": -22.9536119,
+        "longitude": -43.3571515,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-09-02",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3667707,
+          -22.9976374
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 55799,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2020-09-02 04:35:25+00:00",
+        "data_fim": "2020-09-02 19:50:59+00:00",
+        "prazo": "Curto",
+        "descricao": "Mergulhão billy blanco \" y \" - barra da tijuca - sent. orla",
+        "gravidade": "Baixo",
+        "latitude": -22.9976374,
+        "longitude": -43.3667707,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-09-02",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3653695,
+          -22.9829389
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 55798,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2020-09-02 03:11:23+00:00",
+        "data_fim": "2020-09-02 04:22:49+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. ayrton senna - alt. do senac - barra da tijuca - sent. linha amarela",
+        "gravidade": "Baixo",
+        "latitude": -22.9829389,
+        "longitude": -43.3653695,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-09-02",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3107119,
+          -23.0068307
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 55797,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2020-09-02 03:04:34+00:00",
+        "data_fim": "2020-09-02 08:52:43+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. armando lombardi - alt. barra point - barra da tijuca - ambos os sentidos.",
+        "gravidade": "Baixo",
+        "latitude": -23.0068307,
+        "longitude": -43.3107119,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-09-02",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.17680123068851,
+          -22.927649837264727
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 22975,
+        "bairro": "Sem bairro",
+        "data_inicio": "2017-12-21 20:41:01+00:00",
+        "data_fim": "2017-12-21 22:01:13+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Rua do catete - catete",
+        "gravidade": "Baixo",
+        "latitude": -22.927649837264727,
+        "longitude": -43.17680123068851,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2017-12-21",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3914107,
+          -23.0006853
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 22972,
+        "bairro": "Sem bairro",
+        "data_inicio": "2017-12-21 19:57:30+00:00",
+        "data_fim": "2017-12-21 21:24:54+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Av. das américas -barra da tijuca",
+        "gravidade": "Baixo",
+        "latitude": -23.0006853,
+        "longitude": -43.3914107,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2017-12-21",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.21584896403198,
+          -22.88929500045684
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 22973,
+        "bairro": "Sem bairro",
+        "data_inicio": "2017-12-21 20:26:07+00:00",
+        "data_fim": "2017-12-22 01:05:19+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Av. rio de janeiro, 30 - caju",
+        "gravidade": "Baixo",
+        "latitude": -22.88929500045684,
+        "longitude": -43.21584896403198,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2017-12-21",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.26449330000003,
+          -22.9976397
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 22976,
+        "bairro": "Sem bairro",
+        "data_inicio": "2017-12-21 20:55:22+00:00",
+        "data_fim": "2017-12-22 05:13:00+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Auto estrada lagoa - barra - são conrado",
+        "gravidade": "Baixo",
+        "latitude": -22.9976397,
+        "longitude": -43.26449330000003,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2017-12-21",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3422066,
+          -22.9556307
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 998157,
+        "bairro": "Anil",
+        "data_inicio": "2024-03-26 10:54:02+00:00",
+        "data_fim": "2024-03-26 11:54:02+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Testa ocorrencia que abriu ultimos 15 min",
+        "gravidade": "Normal",
+        "latitude": -22.9556307,
+        "longitude": -43.3422066,
+        "status": "Aberto",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2024-03-26",
+        "prazo_num": 68639.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1852321,
+          -22.9666427
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 8125,
+        "bairro": "Copacabana",
+        "data_inicio": "2024-03-24 12:53:15+00:00",
+        "data_fim": "2024-03-24 15:13:42+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Rua tonelero,  - copacabana",
+        "gravidade": "Normal",
+        "latitude": -22.9666427,
+        "longitude": -43.1852321,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2024-03-24",
+        "prazo_num": 72984.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.304772,
+          -22.9044384
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 8005,
+        "bairro": "Engenho de dentro",
+        "data_inicio": "2024-03-22 12:27:17+00:00",
+        "data_fim": "2024-03-22 14:30:12+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "R. borja reis, alt. r. monteiro da luz - engenho de dentro",
+        "gravidade": "Normal",
+        "latitude": -22.9044384,
+        "longitude": -43.304772,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2024-03-22",
+        "prazo_num": 69726.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3400605,
+          -22.8681723
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 8004,
+        "bairro": "Madureira",
+        "data_inicio": "2024-03-22 12:16:33+00:00",
+        "data_fim": "2024-03-22 14:30:41+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Av. min. edgar romero, alt. r. conselheiro galvao - madureira",
+        "gravidade": "Normal",
+        "latitude": -22.8681723,
+        "longitude": -43.3400605,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2024-03-22",
+        "prazo_num": 69726.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3352074,
+          -22.8824151
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 7036,
+        "bairro": "Cascadura",
+        "data_inicio": "2024-03-05 21:13:07+00:00",
+        "data_fim": "2024-03-05 22:13:07+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Av ernani cardoso,  - cascadura",
+        "gravidade": "Normal",
+        "latitude": -22.8824151,
+        "longitude": -43.3352074,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2024-03-05",
+        "prazo_num": 76199.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1738128,
+          -22.9340641
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 8026,
+        "bairro": "Flamengo",
+        "data_inicio": "2024-03-22 15:25:45+00:00",
+        "data_fim": "2024-03-22 15:56:43+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Av. infante dom henrique, alt. no 11 - flamengo",
+        "gravidade": "Normal",
+        "latitude": -22.9340641,
+        "longitude": -43.1738128,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2024-03-22",
+        "prazo_num": 69726.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2175059,
+          -22.9660698
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 80662,
+        "bairro": "Lagoa",
+        "data_inicio": "2022-09-15 17:22:14+00:00",
+        "data_fim": "2022-09-15 20:00:58+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. borges de medeiros - acesso a r. saturnino de brito - lagoa",
+        "gravidade": "Baixo",
+        "latitude": -22.9660698,
+        "longitude": -43.2175059,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2022-09-15",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2180433,
+          -22.897672
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 81345,
+        "bairro": "São cristóvão",
+        "data_inicio": "2022-09-28 20:24:15+00:00",
+        "data_fim": "2022-09-28 22:08:55+00:00",
+        "prazo": "Curto",
+        "descricao": "Rua santos lima - alt. r. escobar - são cristóvão",
+        "gravidade": "Baixo",
+        "latitude": -22.897672,
+        "longitude": -43.2180433,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2022-09-28",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2585742,
+          -22.8368922
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 49255,
+        "bairro": "Olaria",
+        "data_inicio": "2019-12-23 14:37:39+00:00",
+        "data_fim": "2019-12-23 15:33:45+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. brasil - alt. r. filomena nunes - olaria - sent. centro",
+        "gravidade": "Baixo",
+        "latitude": -22.8368922,
+        "longitude": -43.2585742,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2019-12-23",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.35400770000001,
+          -22.9290527
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 48680,
+        "bairro": "Pechincha",
+        "data_inicio": "2019-12-05 18:49:06+00:00",
+        "data_fim": "2019-12-05 20:23:55+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. geremário dantas - alt estr. do tindiba - pechincha ",
+        "gravidade": "Baixo",
+        "latitude": -22.9290527,
+        "longitude": -43.35400770000001,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2019-12-05",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.33367479999998,
+          -22.9786046
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 48682,
+        "bairro": "Itanhangá",
+        "data_inicio": "2019-12-05 19:14:31+00:00",
+        "data_fim": "2019-12-05 20:24:43+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. eng.  souza filho - alt. av. princilal - itanhangá",
+        "gravidade": "Baixo",
+        "latitude": -22.9786046,
+        "longitude": -43.33367479999998,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2019-12-05",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.24534419999998,
+          -22.8720568
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 48696,
+        "bairro": "Manguinhos",
+        "data_inicio": "2019-12-05 21:16:38+00:00",
+        "data_fim": "2019-12-05 22:55:06+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. brasil - alt. fio cruz - manguinhos - sent. z. oeste",
+        "gravidade": "Baixo",
+        "latitude": -22.8720568,
+        "longitude": -43.24534419999998,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2019-12-05",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.363122932708734,
+          -22.973823460489125
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 49266,
+        "bairro": "Jacarepaguá",
+        "data_inicio": "2019-12-23 15:01:32+00:00",
+        "data_fim": "2019-12-23 17:06:45+00:00",
+        "prazo": "Curto",
+        "descricao": "Ponte santos dumont - alt. av. abelardo bueno - sent. linha amarela",
+        "gravidade": "Baixo",
+        "latitude": -22.973823460489125,
+        "longitude": -43.363122932708734,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2019-12-23",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.37782830000003,
+          -22.9730997
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 48681,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2019-12-05 19:09:12+00:00",
+        "data_fim": "2019-12-05 20:31:59+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. embaixador abelardo bueno - alt. r. arroio pavuna - barra da tijuca",
+        "gravidade": "Baixo",
+        "latitude": -22.9730997,
+        "longitude": -43.37782830000003,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2019-12-05",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3199452,
+          -22.8205262
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 73312,
+        "bairro": "Irajá",
+        "data_inicio": "2022-04-14 05:08:01+00:00",
+        "data_fim": "2022-04-14 10:30:37+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. brasil - alt. trevo das margaridas - irajá  sent. centro",
+        "gravidade": "Baixo",
+        "latitude": -22.8205262,
+        "longitude": -43.3199452,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2022-04-14",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3343465,
+          -22.8661268
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 73761,
+        "bairro": "Madureira",
+        "data_inicio": "2022-04-29 21:24:00+00:00",
+        "data_fim": "2022-04-29 22:46:38+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. min. edgard romero - alt. rua conselheiro galvão - madureira",
+        "gravidade": "Baixo",
+        "latitude": -22.8661268,
+        "longitude": -43.3343465,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2022-04-29",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2343008,
+          -22.9136035
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 72854,
+        "bairro": "Maracanã",
+        "data_inicio": "2022-04-01 17:57:28+00:00",
+        "data_fim": "2022-04-01 21:02:57+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. prof. manoel de abreu, alt. rua felipe camarão  - maracanã",
+        "gravidade": "Baixo",
+        "latitude": -22.9136035,
+        "longitude": -43.2343008,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2022-04-01",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3125446,
+          -23.0071518
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 73193,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2022-04-09 01:56:34+00:00",
+        "data_fim": "2022-04-09 09:15:37+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. armando lombardi - alt. estação brt jardim oceanico  - barra da tijuca - sent. rocinha",
+        "gravidade": "Baixo",
+        "latitude": -23.0071518,
+        "longitude": -43.3125446,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2022-04-09",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.365378,
+          -22.9829359
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 73310,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2022-04-14 04:01:15+00:00",
+        "data_fim": "2022-04-14 05:51:52+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. ayrton senna - alt. senac - barra da tijuca - sent. linha amarela.",
+        "gravidade": "Baixo",
+        "latitude": -22.9829359,
+        "longitude": -43.365378,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2022-04-14",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.18256738147582,
+          -22.94605667881266
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 64865,
+        "bairro": "Botafogo",
+        "data_inicio": "2021-07-28 09:41:36+00:00",
+        "data_fim": "2021-07-28 13:52:15+00:00",
+        "prazo": "Curto",
+        "descricao": "Praia de botafogo - alt. r. visc. de ouro preto - botafogo - sent. copacabana",
+        "gravidade": "Baixo",
+        "latitude": -22.94605667881266,
+        "longitude": -43.18256738147582,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2021-07-28",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2309849,
+          -22.9079717
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 62570,
+        "bairro": "São cristóvão",
+        "data_inicio": "2021-04-21 08:55:15+00:00",
+        "data_fim": "2021-04-21 16:21:13+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. bartolomeu de gusmão - alt. 850  - são cristóvão",
+        "gravidade": "Baixo",
+        "latitude": -22.9079717,
+        "longitude": -43.2309849,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2021-04-21",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2260453,
+          -22.9732248
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 100732,
+        "bairro": "Gávea",
+        "data_inicio": "2023-08-13 17:20:26+00:00",
+        "data_fim": "2023-08-13 18:53:48+00:00",
+        "prazo": "Curto",
+        "descricao": "R. jardim botânico, alt. praça santos dumont - gávea - ambos os sentidos",
+        "gravidade": "Baixo",
+        "latitude": -22.9732248,
+        "longitude": -43.2260453,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2023-08-13",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2024315,
+          -22.9797387
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 100731,
+        "bairro": "Ipanema",
+        "data_inicio": "2023-08-13 17:15:12+00:00",
+        "data_fim": "2023-08-13 18:37:28+00:00",
+        "prazo": "Curto",
+        "descricao": "R. vinícius de moraes, alt. av. borges de medeiros - ipanema",
+        "gravidade": "Baixo",
+        "latitude": -22.9797387,
+        "longitude": -43.2024315,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2023-08-13",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.4572141,
+          -22.8795565
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 6280,
+        "bairro": "Bangu",
+        "data_inicio": "2024-02-21 20:35:13+00:00",
+        "data_fim": "2024-02-21 21:35:13+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Rua francisco real,  - bangu",
+        "gravidade": "Normal",
+        "latitude": -22.8795565,
+        "longitude": -43.4572141,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2024-02-21",
+        "prazo_num": 76340.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2372079,
+          -22.9169707
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 5972,
+        "bairro": "Vila isabel",
+        "data_inicio": "2024-02-15 16:57:00+00:00",
+        "data_fim": "2024-02-15 17:57:00+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "R. maxwell, alt. no 21 - vila isabel",
+        "gravidade": "Normal",
+        "latitude": -22.9169707,
+        "longitude": -43.2372079,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2024-02-15",
+        "prazo_num": 78834.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.5829307,
+          -22.9102244
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 5953,
+        "bairro": "Campo grande",
+        "data_inicio": "2024-02-15 12:07:24+00:00",
+        "data_fim": "2024-02-15 13:07:24+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Av. cesario de melo, alt. r. morango - campo grande",
+        "gravidade": "Normal",
+        "latitude": -22.9102244,
+        "longitude": -43.5829307,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2024-02-15",
+        "prazo_num": 78834.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.67791210000001,
+          -22.927328
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 5952,
+        "bairro": "Santa cruz",
+        "data_inicio": "2024-02-15 12:04:36+00:00",
+        "data_fim": "2024-02-15 13:04:36+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "R. felipe cardoso, av. eng. gastao rangel  - santa cruz",
+        "gravidade": "Normal",
+        "latitude": -22.927328,
+        "longitude": -43.67791210000001,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2024-02-15",
+        "prazo_num": 78834.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.5504557,
+          -22.865366
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 5792,
+        "bairro": "Campo grande",
+        "data_inicio": "2024-02-12 17:09:11+00:00",
+        "data_fim": "2024-02-12 18:09:11+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Estr. do mendanha, alt. no 4017 - campo grande",
+        "gravidade": "Normal",
+        "latitude": -22.865366,
+        "longitude": -43.5504557,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2024-02-12",
+        "prazo_num": 80624.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.5829307,
+          -22.9102244
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 5793,
+        "bairro": "Campo grande",
+        "data_inicio": "2024-02-12 17:33:19+00:00",
+        "data_fim": "2024-02-12 18:33:19+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Av. cesario de melo, alt. no 3393 - campo grande",
+        "gravidade": "Normal",
+        "latitude": -22.9102244,
+        "longitude": -43.5829307,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2024-02-12",
+        "prazo_num": 80624.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.22512280000001,
+          -22.9741219
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 45508,
+        "bairro": "Gávea",
+        "data_inicio": "2019-08-20 20:49:48+00:00",
+        "data_fim": "2019-08-21 00:54:56+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. borges de medeiros, alt. jockey club - gávea ",
+        "gravidade": "Baixo",
+        "latitude": -22.9741219,
+        "longitude": -43.22512280000001,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2019-08-20",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.202495394104005,
+          -22.97968292279747
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 99541,
+        "bairro": "Ipanema",
+        "data_inicio": "2023-07-19 20:14:21+00:00",
+        "data_fim": "2023-07-19 21:18:09+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. epitácio pessoa - alt. r. vinicius de moraes - lagoa",
+        "gravidade": "Baixo",
+        "latitude": -22.97968292279747,
+        "longitude": -43.202495394104005,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2023-07-19",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 62097,
+        "bairro": "Lagoa",
+        "data_inicio": "2021-03-30 19:13:16+00:00",
+        "data_fim": "2021-03-30 20:13:47+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. borges de medeiros - alt. saturnino de brito - lagoa ",
+        "gravidade": "Baixo",
+        "latitude": null,
+        "longitude": null,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2021-03-30",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3749668,
+          -22.8446229
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 61766,
+        "bairro": "Guadalupe",
+        "data_inicio": "2021-03-16 16:20:51+00:00",
+        "data_fim": "2021-03-16 18:13:12+00:00",
+        "prazo": "Curto",
+        "descricao": "Rua orélia, 13 - guadalupe",
+        "gravidade": "Medio",
+        "latitude": -22.8446229,
+        "longitude": -43.3749668,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2021-03-16",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 62092,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2021-03-30 18:30:26+00:00",
+        "data_fim": "2021-03-30 18:53:49+00:00",
+        "prazo": "Curto",
+        "descricao": "Av armando lombardi - alt. barra point - barra - sent. recreio",
+        "gravidade": "Baixo",
+        "latitude": null,
+        "longitude": null,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2021-03-30",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2064953,
+          -22.9742628
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 68704,
+        "bairro": "Lagoa",
+        "data_inicio": "2021-12-07 18:05:47+00:00",
+        "data_fim": "2021-12-07 18:37:07+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. epitácio pessoa, alt. jardim de alah - lagoa - sent. corte cantagalo",
+        "gravidade": "Baixo",
+        "latitude": -22.9742628,
+        "longitude": -43.2064953,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2021-12-07",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2176378,
+          -22.9728162
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 68686,
+        "bairro": "Lagoa",
+        "data_inicio": "2021-12-07 14:12:39+00:00",
+        "data_fim": "2021-12-07 14:41:19+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. borges de medeiros, alt. r. batista da costa - lagoa",
+        "gravidade": "Baixo",
+        "latitude": -22.9728162,
+        "longitude": -43.2176378,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2021-12-07",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2027975,
+          -22.9637
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 69300,
+        "bairro": "Lagoa",
+        "data_inicio": "2021-12-18 06:28:25+00:00",
+        "data_fim": "2021-12-18 11:26:06+00:00",
+        "prazo": "Curto",
+        "descricao": "Rua fonte da saudade - alt. rua humaitá  - lagoa",
+        "gravidade": "Baixo",
+        "latitude": -22.9637,
+        "longitude": -43.2027975,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2021-12-18",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.5994866,
+          -22.9142551
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 68660,
+        "bairro": "Inhoaíba",
+        "data_inicio": "2021-12-07 01:00:34+00:00",
+        "data_fim": "2021-12-07 02:47:38+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. cesário de melo - alt. rua moranga - inhoaíba - sent. campo grande.",
+        "gravidade": "Baixo",
+        "latitude": -22.9142551,
+        "longitude": -43.5994866,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2021-12-07",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3124895,
+          -23.0067108
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 68624,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2021-12-06 00:23:01+00:00",
+        "data_fim": "2021-12-06 05:34:01+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. armando lombardi - alt. brt jardim oceânico - barra da tijuca - sent. são conrado.",
+        "gravidade": "Baixo",
+        "latitude": -23.0067108,
+        "longitude": -43.3124895,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2021-12-06",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3297841,
+          -23.0015363
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 69684,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2021-12-29 20:27:54+00:00",
+        "data_fim": "2021-12-29 21:38:12+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. das américas - alt. hotel dunas - barra da tijuca - sent. são conrado.",
+        "gravidade": "Baixo",
+        "latitude": -23.0015363,
+        "longitude": -43.3297841,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2021-12-29",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.21238083887024,
+          -22.89777315358475
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 69301,
+        "bairro": "São cristóvão",
+        "data_inicio": "2021-12-18 07:05:09+00:00",
+        "data_fim": "2021-12-18 18:04:51+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. brasil - alt. into - caju - sent. rodoviária",
+        "gravidade": "Baixo",
+        "latitude": -22.89777315358475,
+        "longitude": -43.21238083887024,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2021-12-18",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3363901,
+          -22.8724899
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 52676,
+        "bairro": "Madureira",
+        "data_inicio": "2020-04-03 16:17:23+00:00",
+        "data_fim": "2020-04-03 16:49:09+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. min edgard romero - alt. r. conselheiro galvão - madureira",
+        "gravidade": "Baixo",
+        "latitude": -22.8724899,
+        "longitude": -43.3363901,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-04-03",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.20884015443119,
+          -22.962760089691905
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 40265,
+        "bairro": "Sem bairro",
+        "data_inicio": "2019-03-02 03:22:02+00:00",
+        "data_fim": "2019-03-02 09:27:36+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Av. borges de medeiros alt. 3426 - lagoa",
+        "gravidade": "Medio",
+        "latitude": -22.962760089691905,
+        "longitude": -43.20884015443119,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2019-03-02",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.29779930000001,
+          -23.0129256
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 40261,
+        "bairro": "Sem bairro",
+        "data_inicio": "2019-03-02 00:10:12+00:00",
+        "data_fim": "2019-03-02 04:31:22+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Av. ministro ivan lins, 460 - barra da tijuca",
+        "gravidade": "Medio",
+        "latitude": -23.0129256,
+        "longitude": -43.29779930000001,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2019-03-02",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.176056500000016,
+          -22.9093184
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 41000,
+        "bairro": "Sem bairro",
+        "data_inicio": "2019-03-21 00:08:44+00:00",
+        "data_fim": "2019-03-21 02:38:03+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Av. rio branco - alt. r. evaristo de veiga - centro",
+        "gravidade": "Medio",
+        "latitude": -22.9093184,
+        "longitude": -43.176056500000016,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2019-03-21",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.29779930000001,
+          -23.0129256
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 41210,
+        "bairro": "Sem bairro",
+        "data_inicio": "2019-03-28 02:52:03+00:00",
+        "data_fim": "2019-03-28 02:54:36+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Avenida ministro ivan lins próximo ao 11 - barra da tijuca",
+        "gravidade": "Baixo",
+        "latitude": -23.0129256,
+        "longitude": -43.29779930000001,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2019-03-28",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2815886,
+          -22.9002635
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 94496,
+        "bairro": "Méier",
+        "data_inicio": "2023-04-09 10:33:42+00:00",
+        "data_fim": "2023-04-09 11:10:12+00:00",
+        "prazo": "Curto",
+        "descricao": "R. medina - alt. r. silva rabelo - méier",
+        "gravidade": "Baixo",
+        "latitude": -22.9002635,
+        "longitude": -43.2815886,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2023-04-09",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2596385,
+          -22.8363196
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 94820,
+        "bairro": "Olaria",
+        "data_inicio": "2023-04-14 17:18:51+00:00",
+        "data_fim": "2023-04-14 18:32:03+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. brasil - alt. olaria - sent. centro",
+        "gravidade": "Baixo",
+        "latitude": -22.8363196,
+        "longitude": -43.2596385,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2023-04-14",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2033758,
+          -22.9600002
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 41569,
+        "bairro": "Humaitá",
+        "data_inicio": "2019-04-08 18:51:17+00:00",
+        "data_fim": "2019-04-09 02:17:21+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Rua humaitá, 380 - humaitá ",
+        "gravidade": "Medio",
+        "latitude": -22.9600002,
+        "longitude": -43.2033758,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2019-04-08",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2334353,
+          -22.9247479
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 41572,
+        "bairro": "Tijuca",
+        "data_inicio": "2019-04-08 19:08:22+00:00",
+        "data_fim": "2019-04-09 02:12:16+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Rua conde de bonfim - alt. general rocca - tijuca",
+        "gravidade": "Medio",
+        "latitude": -22.9247479,
+        "longitude": -43.2334353,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2019-04-08",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1765863,
+          -22.925732
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 41583,
+        "bairro": "Glória",
+        "data_inicio": "2019-04-08 19:52:30+00:00",
+        "data_fim": "2019-04-08 21:21:24+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Rua do catete - alt. r. silveira martins - catete",
+        "gravidade": "Medio",
+        "latitude": -22.925732,
+        "longitude": -43.1765863,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2019-04-08",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2064927,
+          -22.9742588
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 57562,
+        "bairro": "Lagoa",
+        "data_inicio": "2020-10-30 17:27:32+00:00",
+        "data_fim": "2020-10-30 21:55:16+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. epitácio pessoa - alt. vinicius de morais - lagoa",
+        "gravidade": "Baixo",
+        "latitude": -22.9742588,
+        "longitude": -43.2064927,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-10-30",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.30524519999999,
+          -23.0024373
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 56793,
+        "bairro": "Itanhangá",
+        "data_inicio": "2020-10-04 18:06:19+00:00",
+        "data_fim": "2020-10-05 05:33:43+00:00",
+        "prazo": "Curto",
+        "descricao": "Estrada da barra da tijuca - alt. posto br - itanhangá - sent. alto da boa vista",
+        "gravidade": "Baixo",
+        "latitude": -23.0024373,
+        "longitude": -43.30524519999999,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-10-04",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.206964500000026,
+          -22.9708637
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 39833,
+        "bairro": "Sem bairro",
+        "data_inicio": "2019-02-17 22:23:38+00:00",
+        "data_fim": "2019-02-18 00:32:05+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Av. epitácio pessoa, alt. r. vinícius de moraes - lagoa",
+        "gravidade": "Baixo",
+        "latitude": -22.9708637,
+        "longitude": -43.206964500000026,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2019-02-17",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.23821239999995,
+          -22.9181994
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 26321,
+        "bairro": "Sem bairro",
+        "data_inicio": "2018-04-15 11:37:08+00:00",
+        "data_fim": "2018-04-15 15:10:44+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "R. dos artistas, 176 - v. isabel - alt. r. ribeiro guimarães",
+        "gravidade": "Baixo",
+        "latitude": -22.9181994,
+        "longitude": -43.23821239999995,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2018-04-15",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.206743200000005,
+          -22.909823
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 26311,
+        "bairro": "Sem bairro",
+        "data_inicio": "2018-04-15 06:21:32+00:00",
+        "data_fim": "2018-04-15 08:13:04+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Av. pres. vargas, 3102 - cidade nova",
+        "gravidade": "Baixo",
+        "latitude": -22.909823,
+        "longitude": -43.206743200000005,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2018-04-15",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.18339979999996,
+          -22.9044036
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 23373,
+        "bairro": "Sem bairro",
+        "data_inicio": "2018-01-04 11:32:44+00:00",
+        "data_fim": "2018-01-04 18:04:34+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Av. passos, 65 - centro - alt. r. buenos aires",
+        "gravidade": "Baixo",
+        "latitude": -22.9044036,
+        "longitude": -43.18339979999996,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2018-01-04",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.22357410000001,
+          -22.9205292
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 23376,
+        "bairro": "Sem bairro",
+        "data_inicio": "2018-01-04 14:10:10+00:00",
+        "data_fim": "2018-01-04 18:52:10+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Av. heitor beltrão, 351 - tijuca",
+        "gravidade": "Baixo",
+        "latitude": -22.9205292,
+        "longitude": -43.22357410000001,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2018-01-04",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.36112379999997,
+          -22.9469127
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 23455,
+        "bairro": "Sem bairro",
+        "data_inicio": "2018-01-07 20:13:01+00:00",
+        "data_fim": "2018-01-08 02:10:31+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Estrada marechal miguel salazar mendes de moraes, 1622 - cidade de deus",
+        "gravidade": "Baixo",
+        "latitude": -22.9469127,
+        "longitude": -43.36112379999997,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2018-01-07",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.4155323,
+          -22.8788106
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 23435,
+        "bairro": "Sem bairro",
+        "data_inicio": "2018-01-07 07:15:52+00:00",
+        "data_fim": "2018-01-07 14:12:48+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Av. marechal fontenele, 4895 - realengo",
+        "gravidade": "Baixo",
+        "latitude": -22.8788106,
+        "longitude": -43.4155323,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2018-01-07",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.30857279999998,
+          -23.0062768
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 23429,
+        "bairro": "Sem bairro",
+        "data_inicio": "2018-01-07 06:23:03+00:00",
+        "data_fim": "2018-01-07 14:13:07+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Av. armando lombardi, 350 - alt. do barra point",
+        "gravidade": "Baixo",
+        "latitude": -23.0062768,
+        "longitude": -43.30857279999998,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2018-01-07",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.44352909999998,
+          -22.8776648
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 23434,
+        "bairro": "Sem bairro",
+        "data_inicio": "2018-01-07 07:13:37+00:00",
+        "data_fim": "2018-01-07 14:12:54+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Av. de santa cruz, 2109 - alt. da estr. do realengo",
+        "gravidade": "Baixo",
+        "latitude": -22.8776648,
+        "longitude": -43.44352909999998,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2018-01-07",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.62715809999997,
+          -22.8854532
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 23452,
+        "bairro": "Sem bairro",
+        "data_inicio": "2018-01-07 17:57:36+00:00",
+        "data_fim": "2018-01-08 01:33:54+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Estr. do campinho, 6891 - paciência",
+        "gravidade": "Baixo",
+        "latitude": -22.8854532,
+        "longitude": -43.62715809999997,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2018-01-07",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2592468991669,
+          -22.99565458561674
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 23454,
+        "bairro": "Sem bairro",
+        "data_inicio": "2018-01-07 19:58:33+00:00",
+        "data_fim": "2018-01-08 01:33:46+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Autoestrada lagoa-barra - são conrado",
+        "gravidade": "Baixo",
+        "latitude": -22.99565458561674,
+        "longitude": -43.2592468991669,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2018-01-07",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.40972199999999,
+          -22.8822598
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 23436,
+        "bairro": "Sem bairro",
+        "data_inicio": "2018-01-07 07:18:09+00:00",
+        "data_fim": "2018-01-07 14:12:42+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Av. marechal fontenele, 4138 - sulacap - alt. estr. mal. mallet",
+        "gravidade": "Baixo",
+        "latitude": -22.8822598,
+        "longitude": -43.40972199999999,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2018-01-07",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.35857099999998,
+          -22.9633882
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 23442,
+        "bairro": "Sem bairro",
+        "data_inicio": "2018-01-07 09:25:30+00:00",
+        "data_fim": "2018-01-07 14:11:29+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Av. ayrton senna, 5555 - gardênia azul - alt. do senac",
+        "gravidade": "Baixo",
+        "latitude": -22.9633882,
+        "longitude": -43.35857099999998,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2018-01-07",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.4452733,
+          -22.8772143
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 23433,
+        "bairro": "Sem bairro",
+        "data_inicio": "2018-01-07 07:11:25+00:00",
+        "data_fim": "2018-01-07 14:13:00+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Av. de santa cruz, 2317 - padre miguel - alt. da r. cajaíba",
+        "gravidade": "Baixo",
+        "latitude": -22.8772143,
+        "longitude": -43.4452733,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2018-01-07",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.35705858088989,
+          -22.96302007946443
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 23478,
+        "bairro": "Sem bairro",
+        "data_inicio": "2018-01-08 05:24:31+00:00",
+        "data_fim": "2018-01-08 08:15:54+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Av. ayrton senna, 3600 - jacarepagua",
+        "gravidade": "Baixo",
+        "latitude": -22.96302007946443,
+        "longitude": -43.35705858088989,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2018-01-08",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.28126371586916,
+          -22.899952755153944
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 23479,
+        "bairro": "Sem bairro",
+        "data_inicio": "2018-01-08 05:36:48+00:00",
+        "data_fim": "2018-01-08 10:36:51+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Rua medina - meier",
+        "gravidade": "Baixo",
+        "latitude": -22.899952755153944,
+        "longitude": -43.28126371586916,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2018-01-08",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.35673942750856,
+          -22.95787066711105
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 23480,
+        "bairro": "Sem bairro",
+        "data_inicio": "2018-01-08 05:39:39+00:00",
+        "data_fim": "2018-01-08 08:15:10+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Av. ayrton senna, 4130 - gardênia azul",
+        "gravidade": "Baixo",
+        "latitude": -22.95787066711105,
+        "longitude": -43.35673942750856,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2018-01-08",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.32543505390623,
+          -22.98840273498836
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 23541,
+        "bairro": "Sem bairro",
+        "data_inicio": "2018-01-09 06:14:36+00:00",
+        "data_fim": "2018-01-09 14:36:26+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Av. eng. souza filho - itanhangá",
+        "gravidade": "Baixo",
+        "latitude": -22.98840273498836,
+        "longitude": -43.32543505390623,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2018-01-09",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.42830214137268,
+          -22.878672908116418
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 23865,
+        "bairro": "Sem bairro",
+        "data_inicio": "2018-01-20 19:42:28+00:00",
+        "data_fim": "2018-01-20 20:28:05+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Av. de santa cruz, 419 - realengo",
+        "gravidade": "Baixo",
+        "latitude": -22.878672908116418,
+        "longitude": -43.42830214137268,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2018-01-20",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.21772826455685,
+          -22.89779592614509
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 24006,
+        "bairro": "Sem bairro",
+        "data_inicio": "2018-01-26 09:20:40+00:00",
+        "data_fim": "2018-01-26 10:29:04+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "R. escobar, alt.  r. santos lima, 15 - são cristóvão",
+        "gravidade": "Baixo",
+        "latitude": -22.89779592614509,
+        "longitude": -43.21772826455685,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2018-01-26",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2031224,
+          -22.9602307
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 59213,
+        "bairro": "Humaitá",
+        "data_inicio": "2020-12-22 10:28:46+00:00",
+        "data_fim": "2020-12-22 10:56:53+00:00",
+        "prazo": "Curto",
+        "descricao": "R. humaitá - alt. r. fonte da saudade - sent. botafogo",
+        "gravidade": "Baixo",
+        "latitude": -22.9602307,
+        "longitude": -43.2031224,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-12-22",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3354398,
+          -22.8824192
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 58593,
+        "bairro": "Cascadura",
+        "data_inicio": "2020-12-01 19:21:16+00:00",
+        "data_fim": "2020-12-01 20:07:14+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. ernani cardoso - alt da padre telêmaco- cascadura",
+        "gravidade": "Baixo",
+        "latitude": -22.8824192,
+        "longitude": -43.3354398,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-12-01",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1942585,
+          -22.9179868
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 58768,
+        "bairro": "Santa teresa",
+        "data_inicio": "2020-12-07 08:18:43+00:00",
+        "data_fim": "2020-12-07 09:52:41+00:00",
+        "prazo": "Curto",
+        "descricao": "Rua eleone de almeida - alt. r. dr. agra - catumbi",
+        "gravidade": "Baixo",
+        "latitude": -22.9179868,
+        "longitude": -43.1942585,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-12-07",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3085822,
+          -23.0062608
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 59225,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2020-12-22 16:51:13+00:00",
+        "data_fim": "2020-12-22 17:36:13+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. armando lombardi - alt. barra point - barra - sent. recreio",
+        "gravidade": "Baixo",
+        "latitude": -23.0062608,
+        "longitude": -43.3085822,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-12-22",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2978112,
+          -23.0129114
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 59228,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2020-12-22 17:37:30+00:00",
+        "data_fim": "2020-12-22 19:06:24+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. min. ivan lins - alt. ponte da joatinga - barra - sent. são conrado",
+        "gravidade": "Baixo",
+        "latitude": -23.0129114,
+        "longitude": -43.2978112,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-12-22",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.36670922395935,
+          -22.97313870121839
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 59306,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2020-12-25 12:01:35+00:00",
+        "data_fim": "2020-12-25 15:08:03+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. abelardo bueno - alt. av. ayrton senna - sent. av. salvador allende",
+        "gravidade": "Baixo",
+        "latitude": -22.97313870121839,
+        "longitude": -43.36670922395935,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-12-25",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3653695,
+          -22.9829389
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 58989,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2020-12-13 11:20:37+00:00",
+        "data_fim": "2020-12-13 12:49:28+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. ayrton senna - alt. carrefour - barra da tijuca - sent. linha amarela",
+        "gravidade": "Baixo",
+        "latitude": -22.9829389,
+        "longitude": -43.3653695,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-12-13",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3106674,
+          -23.0066933
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 58990,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2020-12-13 11:24:36+00:00",
+        "data_fim": "2020-12-13 12:26:20+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. armando lombardi - alt. est. brt jardim oceânico - barra - sent. recreio",
+        "gravidade": "Baixo",
+        "latitude": -23.0066933,
+        "longitude": -43.3106674,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-12-13",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1764795,
+          -22.9013187
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 4563,
+        "bairro": "Centro",
+        "data_inicio": "2024-01-24 09:22:08+00:00",
+        "data_fim": "2024-01-24 10:22:08+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "R. primeiro de marco,  - centro",
+        "gravidade": "Normal",
+        "latitude": -22.9013187,
+        "longitude": -43.1764795,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2024-01-24",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1743366,
+          -22.9136805
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 4688,
+        "bairro": "Centro",
+        "data_inicio": "2024-01-26 07:10:46+00:00",
+        "data_fim": "2024-01-26 08:10:46+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Av. beira mar,  - centro",
+        "gravidade": "Normal",
+        "latitude": -22.9136805,
+        "longitude": -43.1743366,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2024-01-26",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3835775,
+          -23.0007498
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 4860,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2024-01-29 06:18:39+00:00",
+        "data_fim": "2024-01-29 07:18:39+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Av das americas,  - barra da tijuca",
+        "gravidade": "Normal",
+        "latitude": -23.0007498,
+        "longitude": -43.3835775,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2024-01-29",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1821377,
+          -22.9031571
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 85195,
+        "bairro": "Centro",
+        "data_inicio": "2022-11-28 13:58:59+00:00",
+        "data_fim": "2022-11-28 15:16:10+00:00",
+        "prazo": "Curto",
+        "descricao": "R. da alfândega - entre sr. dos passos e r. dos andradas - centro",
+        "gravidade": "Baixo",
+        "latitude": -22.9031571,
+        "longitude": -43.1821377,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2022-11-28",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 85192,
+        "bairro": "Botafogo",
+        "data_inicio": "2022-11-28 13:48:04+00:00",
+        "data_fim": "2022-11-28 14:27:50+00:00",
+        "prazo": "Curto",
+        "descricao": "R. muniz barreto - alt. r. alfredo gomes - botafogo",
+        "gravidade": "Baixo",
+        "latitude": null,
+        "longitude": null,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2022-11-28",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1821807,
+          -22.9454948
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 85193,
+        "bairro": "Botafogo",
+        "data_inicio": "2022-11-28 13:49:46+00:00",
+        "data_fim": "2022-11-28 16:32:24+00:00",
+        "prazo": "Curto",
+        "descricao": "Praia de botafogo - alt. r. visc. de ouro petro - botafogo",
+        "gravidade": "Baixo",
+        "latitude": -22.9454948,
+        "longitude": -43.1821807,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2022-11-28",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3124798,
+          -22.8704805
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 84504,
+        "bairro": "Cavalcante",
+        "data_inicio": "2022-11-16 10:01:37+00:00",
+        "data_fim": "2022-11-16 10:33:43+00:00",
+        "prazo": "Curto",
+        "descricao": "R. silva vale, 249 - cavalcante",
+        "gravidade": "Baixo",
+        "latitude": -22.8704805,
+        "longitude": -43.3124798,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2022-11-16",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2097136,
+          -22.9046586
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 84773,
+        "bairro": "Santo cristo",
+        "data_inicio": "2022-11-21 17:02:05+00:00",
+        "data_fim": "2022-11-21 18:05:38+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. francisco bicalho - alt. av. pedro ll - santo cristo - sent. av. brasil",
+        "gravidade": "Baixo",
+        "latitude": -22.9046586,
+        "longitude": -43.2097136,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2022-11-21",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3568532,
+          -22.804507
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 70560,
+        "bairro": "Pavuna",
+        "data_inicio": "2022-01-28 15:11:20+00:00",
+        "data_fim": "2022-01-28 16:03:59+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. srg. de milícias, alt. r. sargento fernandes fontes - pavuna",
+        "gravidade": "Baixo",
+        "latitude": -22.804507,
+        "longitude": -43.3568532,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2022-01-28",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2067789,
+          -22.9098386
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 69938,
+        "bairro": "Cidade nova",
+        "data_inicio": "2022-01-07 09:40:24+00:00",
+        "data_fim": "2022-01-07 12:21:33+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. presidente vargas, 3220 - cidade nova - sent. av. f. bicalho",
+        "gravidade": "Baixo",
+        "latitude": -22.9098386,
+        "longitude": -43.2067789,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2022-01-07",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3108259,
+          -23.0072417
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 69922,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2022-01-07 06:30:17+00:00",
+        "data_fim": "2022-01-07 08:35:32+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. armando lombardi - alt. estação brt jardim oceânico - barra da tijuca - sent. são conrado",
+        "gravidade": "Baixo",
+        "latitude": -23.0072417,
+        "longitude": -43.3108259,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2022-01-07",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.168775100000005,
+          -22.9101762
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 49533,
+        "bairro": "Centro",
+        "data_inicio": "2020-01-02 19:41:26+00:00",
+        "data_fim": "2020-01-02 20:29:35+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. mal. câmara - alt. oab - centro - sent. centro",
+        "gravidade": "Baixo",
+        "latitude": -22.9101762,
+        "longitude": -43.168775100000005,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-01-02",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2978112,
+          -23.0129114
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 49998,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2020-01-17 09:40:41+00:00",
+        "data_fim": "2020-01-17 11:04:51+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. ministro ivan lins - alt. hotel ibis - barra da tijuca",
+        "gravidade": "Baixo",
+        "latitude": -23.0129114,
+        "longitude": -43.2978112,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-01-17",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.38834713862304,
+          -23.000541780292355
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 59534,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2021-01-02 17:01:34+00:00",
+        "data_fim": "2021-01-02 17:05:06+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. das américas - alt. av. jean paul - barra - sent. recreio",
+        "gravidade": "Baixo",
+        "latitude": -23.000541780292355,
+        "longitude": -43.38834713862304,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2021-01-02",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.45380461352234,
+          -23.011453469917704
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 59531,
+        "bairro": "Recreio dos bandeirantes",
+        "data_inicio": "2021-01-02 16:37:10+00:00",
+        "data_fim": "2021-01-02 16:56:00+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. das américas - alt. av. guignard - recreio - sent. sâo conrado",
+        "gravidade": "Baixo",
+        "latitude": -23.011453469917704,
+        "longitude": -43.45380461352234,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2021-01-02",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3547713,
+          -22.9289985
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 51014,
+        "bairro": "Pechincha",
+        "data_inicio": "2020-02-10 15:15:36+00:00",
+        "data_fim": "2020-02-10 15:54:37+00:00",
+        "prazo": "Curto",
+        "descricao": "Largo do pechincha, 38 - pechincha",
+        "gravidade": "Baixo",
+        "latitude": -22.9289985,
+        "longitude": -43.3547713,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-02-10",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3657567,
+          -22.9953162
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 50621,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2020-02-02 21:28:07+00:00",
+        "data_fim": "2020-02-03 01:57:03+00:00",
+        "prazo": "Curto",
+        "descricao": "Mergulhão u - av. ayrton senna - barra da tijuca",
+        "gravidade": "Baixo",
+        "latitude": -22.9953162,
+        "longitude": -43.3657567,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-02-02",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.17654338465576,
+          -22.925732000000004
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 37468,
+        "bairro": "Sem bairro",
+        "data_inicio": "2018-12-08 04:17:55+00:00",
+        "data_fim": "2018-12-08 05:46:36+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Catete - glória",
+        "gravidade": "Baixo",
+        "latitude": -22.925732000000004,
+        "longitude": -43.17654338465576,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2018-12-08",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3372604,
+          -22.8696911
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 65762,
+        "bairro": "Madureira",
+        "data_inicio": "2021-09-01 16:38:16+00:00",
+        "data_fim": "2021-09-01 23:02:24+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. edgard romero - alt. r. conselheiro galvão - madureira",
+        "gravidade": "Baixo",
+        "latitude": -22.8696911,
+        "longitude": -43.3372604,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2021-09-01",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.310663,
+          -23.0066958
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 65745,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2021-09-01 05:54:37+00:00",
+        "data_fim": "2021-09-01 08:36:45+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. armando lombardi - alt. estação brt jardim oceânico - barra da tijuca - são conrado.",
+        "gravidade": "Baixo",
+        "latitude": -23.0066958,
+        "longitude": -43.310663,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2021-09-01",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.310663,
+          -23.0066958
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 65744,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2021-09-01 05:47:41+00:00",
+        "data_fim": "2021-09-01 08:36:56+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. armando lombardi - alt. barra point - barra da tijuca - sent. recreio",
+        "gravidade": "Baixo",
+        "latitude": -23.0066958,
+        "longitude": -43.310663,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2021-09-01",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2351722,
+          -22.8850574
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 55417,
+        "bairro": "Manguinhos",
+        "data_inicio": "2020-08-21 04:50:35+00:00",
+        "data_fim": "2020-08-21 07:38:12+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. brasil - alt - viad. ataulfo alves - benfica - sent. z. oeste",
+        "gravidade": "Baixo",
+        "latitude": -22.8850574,
+        "longitude": -43.2351722,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-08-21",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3884956,
+          -23.000338
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 55446,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2020-08-21 16:09:40+00:00",
+        "data_fim": "2020-08-21 17:11:06+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. das américas - alt. av. jean paul sartre - barra da tijuca - sent. recreio",
+        "gravidade": "Baixo",
+        "latitude": -23.000338,
+        "longitude": -43.3884956,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-08-21",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3106674,
+          -23.0066933
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 55416,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2020-08-21 04:45:16+00:00",
+        "data_fim": "2020-08-21 06:53:26+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. armando lombardi - alt. barra point - barra da tijuca - sent. recreio",
+        "gravidade": "Baixo",
+        "latitude": -23.0066933,
+        "longitude": -43.3106674,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-08-21",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3085822,
+          -23.0062608
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 55448,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2020-08-21 17:30:05+00:00",
+        "data_fim": "2020-08-21 19:23:04+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. armando lombardi - alt. barra point - barra da tijuca - sent. recreio",
+        "gravidade": "Baixo",
+        "latitude": -23.0062608,
+        "longitude": -43.3085822,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-08-21",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3661128,
+          -22.9864264
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 55421,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2020-08-21 06:16:03+00:00",
+        "data_fim": "2020-08-21 07:36:11+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. ayrton senna - alt. senac  - barra da tijuca - sent. linha amarela",
+        "gravidade": "Baixo",
+        "latitude": -22.9864264,
+        "longitude": -43.3661128,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-08-21",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3667707,
+          -22.9976374
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 55306,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2020-08-16 15:06:08+00:00",
+        "data_fim": "2020-08-16 19:32:29+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. das américas x ayrton senna - mergulhão y - barra da tijuca",
+        "gravidade": "Baixo",
+        "latitude": -22.9976374,
+        "longitude": -43.3667707,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-08-16",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.310663,
+          -23.0066958
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 72352,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2022-03-21 05:06:15+00:00",
+        "data_fim": "2022-03-21 05:59:09+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. armando lombardi - alt. esatação brt jardim oceanico - barra da tijuca - sent. são conrado.",
+        "gravidade": "Baixo",
+        "latitude": -23.0066958,
+        "longitude": -43.310663,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2022-03-21",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3046861,
+          -22.9985303
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 87696,
+        "bairro": "Itanhangá",
+        "data_inicio": "2023-01-06 03:03:18+00:00",
+        "data_fim": "2023-01-06 05:20:04+00:00",
+        "prazo": "Curto",
+        "descricao": "Estrada da barra da tijuca - alt. av. minis. ivan lins - itanhangá",
+        "gravidade": "Baixo",
+        "latitude": -22.9985303,
+        "longitude": -43.3046861,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2023-01-06",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.18516049999999,
+          -22.9108201
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 58286,
+        "bairro": "Centro",
+        "data_inicio": "2020-11-22 19:46:02+00:00",
+        "data_fim": "2020-11-22 21:21:06+00:00",
+        "prazo": "Curto",
+        "descricao": "Rua dos inválidos - alt. da av. men de sá - 201 - centro",
+        "gravidade": "Baixo",
+        "latitude": -22.9108201,
+        "longitude": -43.18516049999999,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-11-22",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1766115,
+          -22.9269656
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 58198,
+        "bairro": "Glória",
+        "data_inicio": "2020-11-19 23:47:11+00:00",
+        "data_fim": "2020-11-20 03:28:03+00:00",
+        "prazo": "Curto",
+        "descricao": "R. do catete - alt. da rua pedro américo - glória",
+        "gravidade": "Baixo",
+        "latitude": -22.9269656,
+        "longitude": -43.1766115,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-11-19",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.19551860000001,
+          -22.9128425
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 58283,
+        "bairro": "Cidade nova",
+        "data_inicio": "2020-11-22 19:31:03+00:00",
+        "data_fim": "2020-11-22 23:02:03+00:00",
+        "prazo": "Curto",
+        "descricao": "Rua frei caneca - alt . av men de sá - cidade nova",
+        "gravidade": "Baixo",
+        "latitude": -22.9128425,
+        "longitude": -43.19551860000001,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-11-22",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.268616,
+          -22.903089
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 58148,
+        "bairro": "Engenho novo",
+        "data_inicio": "2020-11-18 21:58:58+00:00",
+        "data_fim": "2020-11-18 23:52:04+00:00",
+        "prazo": "Curto",
+        "descricao": "R. vinte e quatro de maio, alt. da r. silva freire - engenho novo",
+        "gravidade": "Baixo",
+        "latitude": -22.903089,
+        "longitude": -43.268616,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-11-18",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3648763,
+          -22.9745175
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 57741,
+        "bairro": "Jacarepaguá",
+        "data_inicio": "2020-11-05 13:31:01+00:00",
+        "data_fim": "2020-11-05 14:22:52+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. ayrton senna - alt. av. abelardo bueno - jacarepaguá - sent. orla",
+        "gravidade": "Baixo",
+        "latitude": -22.9745175,
+        "longitude": -43.3648763,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-11-05",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3107119,
+          -23.0068307
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 58169,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2020-11-19 04:49:56+00:00",
+        "data_fim": "2020-11-19 09:10:22+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. armando lombardi - alt. do mergulinho- barra da tijuca - sent. recreio.",
+        "gravidade": "Baixo",
+        "latitude": -23.0068307,
+        "longitude": -43.3107119,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-11-19",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.310823,
+          -23.0072011
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 57803,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2020-11-07 00:07:07+00:00",
+        "data_fim": "2020-11-07 13:39:49+00:00",
+        "prazo": "Curto",
+        "descricao": "Mergulinho na av. armando lombardi - barra da tijuca -sent barra",
+        "gravidade": "Baixo",
+        "latitude": -23.0072011,
+        "longitude": -43.310823,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-11-07",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2978112,
+          -23.0129114
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 57742,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2020-11-05 13:34:39+00:00",
+        "data_fim": "2020-11-05 15:19:43+00:00",
+        "prazo": "Curto",
+        "descricao": "Avenida ministro ivan lins - barra da tijuca - sent. são conrado",
+        "gravidade": "Baixo",
+        "latitude": -23.0129114,
+        "longitude": -43.2978112,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-11-05",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2979117,
+          -23.0128115
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 58265,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2020-11-21 19:29:01+00:00",
+        "data_fim": "2020-11-21 22:26:05+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. min. ivan lins, alt. joá - barra da tijuca - pista central, sent. são conrado",
+        "gravidade": "Baixo",
+        "latitude": -23.0128115,
+        "longitude": -43.2979117,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-11-21",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3547203,
+          -22.9645642
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 57747,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2020-11-05 14:05:33+00:00",
+        "data_fim": "2020-11-05 14:25:34+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. ayrton senna - alt. shopping uptown - sent. linha amarela",
+        "gravidade": "Baixo",
+        "latitude": -22.9645642,
+        "longitude": -43.3547203,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-11-05",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3107119,
+          -23.0068307
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 58170,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2020-11-19 04:54:16+00:00",
+        "data_fim": "2020-11-19 09:10:19+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. armando lombardi - alt. estação brt jardim oceânico - barra da tijuca - recreio",
+        "gravidade": "Baixo",
+        "latitude": -23.0068307,
+        "longitude": -43.3107119,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-11-19",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3079509,
+          -23.0066676
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 57804,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2020-11-07 01:06:57+00:00",
+        "data_fim": "2020-11-07 13:39:41+00:00",
+        "prazo": "Curto",
+        "descricao": "Mergulinho na av. armando lombardi - barra da tijuca -sent recreio",
+        "gravidade": "Baixo",
+        "latitude": -23.0066676,
+        "longitude": -43.3079509,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-11-07",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.19991770000001,
+          -22.8062489
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 90167,
+        "bairro": "Jardim guanabara",
+        "data_inicio": "2023-02-05 16:37:54+00:00",
+        "data_fim": "2023-02-05 16:51:53+00:00",
+        "prazo": "Curto",
+        "descricao": "Estrada do galeão - alt. nº 1803 - jardim guanabara",
+        "gravidade": "Baixo",
+        "latitude": -22.8062489,
+        "longitude": -43.19991770000001,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2023-02-05",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1861562,
+          -22.9671127
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 63095,
+        "bairro": "Copacabana",
+        "data_inicio": "2021-05-08 09:05:57+00:00",
+        "data_fim": "2021-05-08 11:30:43+00:00",
+        "prazo": "Curto",
+        "descricao": "R. tonelero - alt. r. sirqueira campos - copacabana",
+        "gravidade": "Baixo",
+        "latitude": -22.9671127,
+        "longitude": -43.1861562,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2021-05-08",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3106674,
+          -23.0066933
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 63209,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2021-05-13 01:05:06+00:00",
+        "data_fim": "2021-05-13 07:25:53+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. armando lombardi - alt. brt jardim oceânico - barra da tijuca - sent. são conrado.",
+        "gravidade": "Baixo",
+        "latitude": -23.0066933,
+        "longitude": -43.3106674,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2021-05-13",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2978112,
+          -23.0129114
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 63042,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2021-05-07 11:24:17+00:00",
+        "data_fim": "2021-05-07 12:11:21+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. min. ivan lins - barra da tijuca",
+        "gravidade": "Baixo",
+        "latitude": -23.0129114,
+        "longitude": -43.2978112,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2021-05-07",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2978112,
+          -23.0129114
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 63208,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2021-05-13 00:58:26+00:00",
+        "data_fim": "2021-05-13 02:16:05+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. ministro ivan lins - alt. hotel ibis - barra da tijuca - sent. recreio dos bandeirantes.",
+        "gravidade": "Baixo",
+        "latitude": -23.0129114,
+        "longitude": -43.2978112,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2021-05-13",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.29781120000001,
+          -23.0129114
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 45876,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2019-09-04 05:52:20+00:00",
+        "data_fim": "2019-09-04 06:35:16+00:00",
+        "prazo": "Curto",
+        "descricao": "Avenida ministro ivan lins- alt. hotel ibis - barra da tijuca - sent.  lagoa",
+        "gravidade": "Baixo",
+        "latitude": -23.0129114,
+        "longitude": -43.29781120000001,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2019-09-04",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2187523,
+          -22.9771034
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 54150,
+        "bairro": "Lagoa",
+        "data_inicio": "2020-06-27 16:24:40+00:00",
+        "data_fim": "2020-06-27 18:03:23+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. borges de medeiros - alt. rua martio ribeiro - lagoa",
+        "gravidade": "Baixo",
+        "latitude": -22.9771034,
+        "longitude": -43.2187523,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-06-27",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1762239,
+          -22.9157143
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 77825,
+        "bairro": "Centro",
+        "data_inicio": "2022-07-14 04:50:00+00:00",
+        "data_fim": "2022-07-14 06:01:46+00:00",
+        "prazo": "Curto",
+        "descricao": "R. teixeira de freitas - alt.  rua do passeio - centro - sent. lapa",
+        "gravidade": "Baixo",
+        "latitude": -22.9157143,
+        "longitude": -43.1762239,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2022-07-14",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2245065,
+          -22.9722222
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 77806,
+        "bairro": "Gávea",
+        "data_inicio": "2022-07-14 00:16:57+00:00",
+        "data_fim": "2022-07-14 05:09:42+00:00",
+        "prazo": "Curto",
+        "descricao": "Rua jardim botânico - alt. praça santos dumont - gávea - ambos sentidos",
+        "gravidade": "Baixo",
+        "latitude": -22.9722222,
+        "longitude": -43.2245065,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2022-07-14",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.564858,
+          -22.897407
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 92705,
+        "bairro": "Campo grande",
+        "data_inicio": "2023-03-12 14:52:48+00:00",
+        "data_fim": "2023-03-12 14:54:00+00:00",
+        "prazo": "Curto",
+        "descricao": "Estr. rio do a - alt. estr rio são paulo - sent.  guaratiba",
+        "gravidade": "Baixo",
+        "latitude": -22.897407,
+        "longitude": -43.564858,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2023-03-12",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2064953,
+          -22.9742628
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 65226,
+        "bairro": "Lagoa",
+        "data_inicio": "2021-08-12 08:43:21+00:00",
+        "data_fim": "2021-08-12 15:18:19+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. epitácio pessoa - alt. r. vinicius de moaraes - lagoa - sent. rebouças",
+        "gravidade": "Baixo",
+        "latitude": -22.9742628,
+        "longitude": -43.2064953,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2021-08-12",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.18158399999999,
+          -22.943046
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 24439,
+        "bairro": "Sem bairro",
+        "data_inicio": "2018-02-07 12:35:58+00:00",
+        "data_fim": "2018-02-07 14:10:06+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Praia de botafogo, 244 - botafogo",
+        "gravidade": "Medio",
+        "latitude": -22.943046,
+        "longitude": -43.18158399999999,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2018-02-07",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2071196,
+          -22.9100104
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 24443,
+        "bairro": "Sem bairro",
+        "data_inicio": "2018-02-07 13:10:15+00:00",
+        "data_fim": "2018-02-07 18:10:45+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Av. pres. vargas, 3250 - cidade nova",
+        "gravidade": "Medio",
+        "latitude": -22.9100104,
+        "longitude": -43.2071196,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2018-02-07",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.20758749999999,
+          -22.9155347
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 24441,
+        "bairro": "Sem bairro",
+        "data_inicio": "2018-02-07 12:45:39+00:00",
+        "data_fim": "2018-02-07 14:55:39+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "R. haddock lobo, 17 - estácio",
+        "gravidade": "Medio",
+        "latitude": -22.9155347,
+        "longitude": -43.20758749999999,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2018-02-07",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.17931620000002,
+          -22.9300978
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 24436,
+        "bairro": "Sem bairro",
+        "data_inicio": "2018-02-07 12:12:08+00:00",
+        "data_fim": "2018-02-07 13:06:25+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "R. bento lisboa, 163 - catete - alt. r. gago coutinho",
+        "gravidade": "Medio",
+        "latitude": -22.9300978,
+        "longitude": -43.17931620000002,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2018-02-07",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.18441029999997,
+          -22.9438568
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 24437,
+        "bairro": "Sem bairro",
+        "data_inicio": "2018-02-07 12:26:03+00:00",
+        "data_fim": "2018-02-07 14:54:50+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "R. marquês de olinda, 61 - botafogo - alt. r. muniz barreto",
+        "gravidade": "Medio",
+        "latitude": -22.9438568,
+        "longitude": -43.18441029999997,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2018-02-07",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.356204899999966,
+          -22.9565694
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 24916,
+        "bairro": "Sem bairro",
+        "data_inicio": "2018-02-21 14:54:54+00:00",
+        "data_fim": "2018-02-21 15:50:51+00:00",
+        "prazo": "Desconhecido",
+        "descricao": "Av. ayrton senna, 4220 - gardênia azul - alt. r. edgard werneck",
+        "gravidade": "Baixo",
+        "latitude": -22.9565694,
+        "longitude": -43.356204899999966,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2018-02-21",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.216449,
+          -22.9722713
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 86502,
+        "bairro": "Lagoa",
+        "data_inicio": "2022-12-18 08:48:30+00:00",
+        "data_fim": "2022-12-18 13:22:48+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. borges de medeiros - alt. parque dos patins - lagoa - sent. gávea",
+        "gravidade": "Baixo",
+        "latitude": -22.9722713,
+        "longitude": -43.216449,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2022-12-18",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1884561,
+          -22.8192327
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 86613,
+        "bairro": "Cacuia",
+        "data_inicio": "2022-12-20 08:07:49+00:00",
+        "data_fim": "2022-12-20 09:25:13+00:00",
+        "prazo": "Curto",
+        "descricao": "Estr. da bica - alt. estr. do rio jequiá - ilha do governador",
+        "gravidade": "Baixo",
+        "latitude": -22.8192327,
+        "longitude": -43.1884561,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2022-12-20",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.18357109999999,
+          -22.9369434
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 86168,
+        "bairro": "Laranjeiras",
+        "data_inicio": "2022-12-13 18:59:44+00:00",
+        "data_fim": "2022-12-13 21:30:28+00:00",
+        "prazo": "Curto",
+        "descricao": "Pinheiro machado -alt. rua coelho neto - sent. centro",
+        "gravidade": "Baixo",
+        "latitude": -22.9369434,
+        "longitude": -43.18357109999999,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2022-12-13",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2978054,
+          -23.0128976
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 87309,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2022-12-30 14:06:05+00:00",
+        "data_fim": "2022-12-30 15:39:42+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. min. ivan lins - alt. nº 800 - barra da tijuca - sent. recreio",
+        "gravidade": "Baixo",
+        "latitude": -23.0128976,
+        "longitude": -43.2978054,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2022-12-30",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3098653,
+          -23.0073901
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 86512,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2022-12-18 10:38:14+00:00",
+        "data_fim": "2022-12-18 13:22:02+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. armando lombardi - alt. nº 505 - barra da tijuca",
+        "gravidade": "Baixo",
+        "latitude": -23.0073901,
+        "longitude": -43.3098653,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2022-12-18",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3723519,
+          -23.000106
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 87108,
+        "bairro": "Barra da tijuca",
+        "data_inicio": "2022-12-27 15:27:18+00:00",
+        "data_fim": "2022-12-27 15:49:26+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. das américas - alt. r. jornalista ricardo marinho - sent. são conrado",
+        "gravidade": "Baixo",
+        "latitude": -23.000106,
+        "longitude": -43.3723519,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2022-12-27",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2153241,
+          -22.9647935
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 54527,
+        "bairro": "Lagoa",
+        "data_inicio": "2020-07-14 12:06:44+00:00",
+        "data_fim": "2020-07-14 12:35:24+00:00",
+        "prazo": "Curto",
+        "descricao": "Av. borges de medeiros - alt. rua josé joaquim seabra - lagoa",
+        "gravidade": "Baixo",
+        "latitude": -22.9647935,
+        "longitude": -43.2153241,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-07-14",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1914281,
+          -22.9580837
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 54529,
+        "bairro": "Botafogo",
+        "data_inicio": "2020-07-14 12:16:11+00:00",
+        "data_fim": "2020-07-14 12:32:17+00:00",
+        "prazo": "Curto",
+        "descricao": "R. real grandeza - alt. r. gal. polidoro - botafogo",
+        "gravidade": "Baixo",
+        "latitude": -22.9580837,
+        "longitude": -43.1914281,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-07-14",
+        "prazo_num": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2512367,
+          -22.9924558
+        ]
+      },
+      "properties": {
+        "id_pop": 33.0,
+        "id_evento": 54528,
+        "bairro": "São conrado",
+        "data_inicio": "2020-07-14 12:09:20+00:00",
+        "data_fim": "2020-07-14 12:35:28+00:00",
+        "prazo": "Curto",
+        "descricao": "Estr. fernando macdowell - alt. rocinha - sent. barra",
+        "gravidade": "Baixo",
+        "latitude": -22.9924558,
+        "longitude": -43.2512367,
+        "status": "Fechado",
+        "tipo": "Lâmina d'água",
+        "data_particao": "2020-07-14",
+        "prazo_num": ""
+      }
+    }
+  ]
+}
