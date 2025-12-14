@@ -277,11 +277,60 @@ def adicionar_contagens_ao_shapefile(gdf_bairros, contagem_total, contagem_por_t
     if 'contagem_alagamento' not in gdf_bairros.columns:
         gdf_bairros['contagem_alagamento'] = 0
     
+    # Calcular área em km²
+    print("\nCalculando área dos bairros...")
+    # Verificar se já existe uma coluna de área
+    if 'st_areasha' in gdf_bairros.columns:
+        # Assumir que está em m² (comum em shapefiles)
+        # Converter para km² (dividir por 1.000.000)
+        gdf_bairros['area_km2'] = gdf_bairros['st_areasha'] / 1_000_000
+        print("Usando coluna 'st_areasha' (convertida de m² para km²)")
+    else:
+        # Calcular área a partir da geometria
+        # Garantir que o CRS está definido (assumir WGS84 se não estiver)
+        if gdf_bairros.crs is None:
+            print("AVISO: CRS não definido. Assumindo WGS84 (EPSG:4326)")
+            gdf_bairros.set_crs(epsg=4326, inplace=True)
+        
+        # Converter para um CRS projetado adequado para cálculo de área (ex: UTM)
+        # Para o Rio de Janeiro, usar UTM Zone 23S (EPSG:31983)
+        gdf_bairros_proj = gdf_bairros.to_crs(epsg=31983)
+        # Calcular área em m² e converter para km²
+        gdf_bairros['area_km2'] = gdf_bairros_proj.geometry.area / 1_000_000
+        print("Área calculada a partir da geometria (convertida para km²)")
+    
+    # Calcular densidade (ocorrências por km²)
+    print("Calculando densidade por km²...")
+    # Evitar divisão por zero
+    # Usar nome curto para caber no limite de 10 caracteres do shapefile
+    gdf_bairros['dens_km2'] = gdf_bairros.apply(
+        lambda row: row['contagem_total'] / row['area_km2'] if row['area_km2'] > 0 else 0,
+        axis=1
+    )
+    
+    # Calcular densidade por tipo
+    print("Calculando densidade por tipo...")
+    gdf_bairros['dens_lamina'] = gdf_bairros.apply(
+        lambda row: row['contagem_lamina'] / row['area_km2'] if row['area_km2'] > 0 else 0,
+        axis=1
+    )
+    gdf_bairros['dens_bolsao'] = gdf_bairros.apply(
+        lambda row: row['contagem_bolsao'] / row['area_km2'] if row['area_km2'] > 0 else 0,
+        axis=1
+    )
+    gdf_bairros['dens_alag'] = gdf_bairros.apply(
+        lambda row: row['contagem_alagamento'] / row['area_km2'] if row['area_km2'] > 0 else 0,
+        axis=1
+    )
+    
     # Remover coluna temporária
     gdf_bairros = gdf_bairros.drop(columns=['bairro_normalizado'])
     
     print(f"Contagens adicionadas. Total de bairros: {len(gdf_bairros)}")
     print(f"Bairros com ocorrências: {(gdf_bairros['contagem_total'] > 0).sum()}")
+    densidades_validas = gdf_bairros[gdf_bairros['dens_km2'] > 0]['dens_km2']
+    if len(densidades_validas) > 0:
+        print(f"Densidade média: {densidades_validas.mean():.2f} ocorrências/km²")
     
     return gdf_bairros
 
@@ -356,6 +405,25 @@ def main():
         print(f"  - Ocorrências de alagamento: {gdf_resultado['contagem_alagamento'].sum()}")
         print(f"  - Ocorrências de bolsão: {gdf_resultado['contagem_bolsao'].sum()}")
         print(f"  - Ocorrências de lâmina: {gdf_resultado['contagem_lamina'].sum()}")
+        print(f"\nDensidade Total:")
+        densidades_validas = gdf_resultado[gdf_resultado['dens_km2'] > 0]['dens_km2']
+        if len(densidades_validas) > 0:
+            print(f"  - Densidade média: {densidades_validas.mean():.2f} ocorrências/km²")
+            print(f"  - Densidade máxima: {densidades_validas.max():.2f} ocorrências/km²")
+            print(f"  - Densidade mínima: {densidades_validas.min():.2f} ocorrências/km²")
+        
+        print(f"\nDensidade por Tipo:")
+        dens_lamina = gdf_resultado[gdf_resultado['dens_lamina'] > 0]['dens_lamina']
+        if len(dens_lamina) > 0:
+            print(f"  - Lâmina - média: {dens_lamina.mean():.2f}, máx: {dens_lamina.max():.2f}, mín: {dens_lamina.min():.2f} ocorrências/km²")
+        
+        dens_bolsao = gdf_resultado[gdf_resultado['dens_bolsao'] > 0]['dens_bolsao']
+        if len(dens_bolsao) > 0:
+            print(f"  - Bolsão - média: {dens_bolsao.mean():.2f}, máx: {dens_bolsao.max():.2f}, mín: {dens_bolsao.min():.2f} ocorrências/km²")
+        
+        dens_alag = gdf_resultado[gdf_resultado['dens_alag'] > 0]['dens_alag']
+        if len(dens_alag) > 0:
+            print(f"  - Alagamento - média: {dens_alag.mean():.2f}, máx: {dens_alag.max():.2f}, mín: {dens_alag.min():.2f} ocorrências/km²")
     except Exception as e:
         print(f"ERRO ao salvar shapefile: {e}")
         return
