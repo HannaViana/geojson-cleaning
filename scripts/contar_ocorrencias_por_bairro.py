@@ -14,6 +14,7 @@ import geopandas as gpd
 import pandas as pd
 from pathlib import Path
 from collections import defaultdict
+from datetime import datetime
 
 
 def encontrar_shapefile_bairros(base_dir):
@@ -146,9 +147,85 @@ def ler_ocorrencias(caminho_geojson):
         raise
 
 
+def determinar_estacao_hemisferio_sul(data_valor):
+    """
+    Determina a estação do ano no hemisfério sul baseada na data.
+    
+    Estações no hemisfério sul (datas de início):
+    - Outono: 20 de março
+    - Inverno: 20 de junho
+    - Primavera: 22 de setembro
+    - Verão: 21 de dezembro
+    
+    Args:
+        data_valor: String, Timestamp ou datetime com a data
+        
+    Returns:
+        str: Nome da estação ('verao', 'outono', 'inverno', 'primavera') ou None
+    """
+    try:
+        # Converter para datetime usando pandas (mais robusto)
+        if pd.isna(data_valor):
+            return None
+        
+        if isinstance(data_valor, pd.Timestamp):
+            data = data_valor
+        elif isinstance(data_valor, datetime):
+            data = pd.Timestamp(data_valor)
+        elif isinstance(data_valor, str):
+            # Tentar parsear com pandas
+            data = pd.to_datetime(data_valor, errors='coerce')
+            if pd.isna(data):
+                return None
+        else:
+            return None
+        
+        mes = data.month
+        dia = data.day
+        ano = data.year
+        
+        # Determinar estação baseado nas datas específicas
+        # Verão: 21 dez a 19 mar
+        if mes == 12 and dia >= 21:
+            return 'verao'
+        elif mes in [1, 2]:
+            return 'verao'
+        elif mes == 3 and dia < 20:
+            return 'verao'
+        
+        # Outono: 20 mar a 19 jun
+        elif mes == 3 and dia >= 20:
+            return 'outono'
+        elif mes in [4, 5]:
+            return 'outono'
+        elif mes == 6 and dia < 20:
+            return 'outono'
+        
+        # Inverno: 20 jun a 21 set
+        elif mes == 6 and dia >= 20:
+            return 'inverno'
+        elif mes in [7, 8]:
+            return 'inverno'
+        elif mes == 9 and dia < 22:
+            return 'inverno'
+        
+        # Primavera: 22 set a 20 dez
+        elif mes == 9 and dia >= 22:
+            return 'primavera'
+        elif mes in [10, 11]:
+            return 'primavera'
+        elif mes == 12 and dia < 21:
+            return 'primavera'
+        
+        else:
+            return None
+    except Exception:
+        return None
+
+
 def contar_ocorrencias_por_bairro(gdf_ocorrencias):
     """
-    Conta ocorrências por bairro (total e por tipo).
+    Conta ocorrências por bairro (total, por tipo e por estação).
     
     Args:
         gdf_ocorrencias: GeoDataFrame com as ocorrências
@@ -156,6 +233,8 @@ def contar_ocorrencias_por_bairro(gdf_ocorrencias):
     Returns:
         dict: Dicionário com contagens por bairro
         dict: Dicionário com contagens por tipo por bairro
+        dict: Dicionário com contagens por estação por bairro
+        dict: Dicionário com contagens por tipo e estação por bairro
     """
     print("\nContando ocorrências por bairro...")
     
@@ -169,25 +248,68 @@ def contar_ocorrencias_por_bairro(gdf_ocorrencias):
     else:
         tipo_disponivel = True
     
+    # Verificar se há coluna de data
+    coluna_data = None
+    for col in ['data_inicio', 'data_fim', 'data_particao']:
+        if col in gdf_ocorrencias.columns:
+            coluna_data = col
+            break
+    
+    if coluna_data is None:
+        print("Aviso: Coluna de data não encontrada. Não será possível calcular contagens por estação.")
+        estacao_disponivel = False
+    else:
+        estacao_disponivel = True
+        print(f"Usando coluna '{coluna_data}' para determinar estação do ano")
+    
     # Contagem total por bairro
     contagem_total = gdf_ocorrencias.groupby('bairro').size().to_dict()
     
     # Contagem por tipo por bairro
     contagem_por_tipo = defaultdict(lambda: defaultdict(int))
     
-    if tipo_disponivel:
+    # Contagem por estação por bairro
+    contagem_por_estacao = defaultdict(lambda: defaultdict(int))
+    
+    # Contagem por tipo e estação por bairro
+    contagem_por_tipo_estacao = defaultdict(lambda: defaultdict(lambda: defaultdict(int)))
+    
+    if tipo_disponivel or estacao_disponivel:
         for _, row in gdf_ocorrencias.iterrows():
             bairro = row['bairro']
-            tipo = row['tipo']
-            if pd.notna(bairro) and pd.notna(tipo):
-                contagem_por_tipo[bairro][tipo] += 1
+            if pd.isna(bairro):
+                continue
+            
+            # Determinar estação
+            estacao = None
+            if estacao_disponivel:
+                data_valor = row[coluna_data]
+                estacao = determinar_estacao_hemisferio_sul(data_valor)
+            
+            # Contagem por tipo
+            if tipo_disponivel:
+                tipo = row['tipo']
+                if pd.notna(tipo):
+                    contagem_por_tipo[bairro][tipo] += 1
+                    
+                    # Contagem por tipo e estação
+                    if estacao:
+                        contagem_por_tipo_estacao[bairro][tipo][estacao] += 1
+            
+            # Contagem por estação
+            if estacao:
+                contagem_por_estacao[bairro][estacao] += 1
     
     print(f"Bairros únicos encontrados: {len(contagem_total)}")
     
-    return contagem_total, dict(contagem_por_tipo)
+    return (contagem_total, 
+            dict(contagem_por_tipo),
+            dict(contagem_por_estacao),
+            dict(contagem_por_tipo_estacao))
 
 
-def adicionar_contagens_ao_shapefile(gdf_bairros, contagem_total, contagem_por_tipo):
+def adicionar_contagens_ao_shapefile(gdf_bairros, contagem_total, contagem_por_tipo, 
+                                     contagem_por_estacao=None, contagem_por_tipo_estacao=None):
     """
     Adiciona as contagens ao GeoDataFrame dos bairros.
     
@@ -232,6 +354,25 @@ def adicionar_contagens_ao_shapefile(gdf_bairros, contagem_total, contagem_por_t
         str(bairro).strip(): tipos 
         for bairro, tipos in contagem_por_tipo.items()
     }
+    
+    # Normalizar contagens por estação
+    contagem_por_estacao_normalizada = {}
+    if contagem_por_estacao:
+        contagem_por_estacao_normalizada = {
+            str(bairro).strip(): {str(est).strip(): v for est, v in estacoes.items()}
+            for bairro, estacoes in contagem_por_estacao.items()
+        }
+    
+    # Normalizar contagens por tipo e estação
+    contagem_por_tipo_estacao_normalizada = {}
+    if contagem_por_tipo_estacao:
+        contagem_por_tipo_estacao_normalizada = {
+            str(bairro).strip(): {
+                str(tipo).strip(): {str(est).strip(): v for est, v in estacoes.items()}
+                for tipo, estacoes in tipos_dict.items()
+            }
+            for bairro, tipos_dict in contagem_por_tipo_estacao.items()
+        }
     
     # Adicionar contagem total
     gdf_bairros['contagem_total'] = gdf_bairros['bairro_normalizado'].map(
@@ -323,6 +464,54 @@ def adicionar_contagens_ao_shapefile(gdf_bairros, contagem_total, contagem_por_t
         axis=1
     )
     
+    # Adicionar contagens e densidades por estação
+    if contagem_por_estacao_normalizada:
+        print("\nAdicionando contagens por estação...")
+        estacoes = ['verao', 'outono', 'inverno', 'primavera']
+        
+        for estacao in estacoes:
+            # Contagem total por estação
+            nome_col = f'cont_{estacao}'
+            gdf_bairros[nome_col] = gdf_bairros['bairro_normalizado'].apply(
+                lambda b: contagem_por_estacao_normalizada.get(b, {}).get(estacao, 0)
+            )
+            
+            # Densidade total por estação
+            nome_dens = f'dens_{estacao}'
+            gdf_bairros[nome_dens] = gdf_bairros.apply(
+                lambda row: row[nome_col] / row['area_km2'] if row['area_km2'] > 0 else 0,
+                axis=1
+            )
+        
+        # Adicionar contagens e densidades por tipo e estação
+        if contagem_por_tipo_estacao_normalizada:
+            print("Adicionando contagens por tipo e estação...")
+            
+            for tipo_nome, tipo_col in mapeamento_tipos.items():
+                # Extrair nome curto do tipo
+                if 'alagamento' in tipo_col:
+                    tipo_curto = 'alag'
+                elif 'bolsao' in tipo_col:
+                    tipo_curto = 'bolsao'
+                elif 'lamina' in tipo_col:
+                    tipo_curto = 'lamina'
+                else:
+                    tipo_curto = tipo_col.replace('contagem_', '')[:6]
+                
+                for estacao in estacoes:
+                    # Contagem por tipo e estação
+                    nome_col = f'cont_{tipo_curto}_{estacao}'
+                    gdf_bairros[nome_col] = gdf_bairros['bairro_normalizado'].apply(
+                        lambda b: contagem_por_tipo_estacao_normalizada.get(b, {}).get(tipo_nome, {}).get(estacao, 0)
+                    )
+                    
+                    # Densidade por tipo e estação
+                    nome_dens = f'dens_{tipo_curto}_{estacao}'
+                    gdf_bairros[nome_dens] = gdf_bairros.apply(
+                        lambda row: row[nome_col] / row['area_km2'] if row['area_km2'] > 0 else 0,
+                        axis=1
+                    )
+    
     # Remover coluna temporária
     gdf_bairros = gdf_bairros.drop(columns=['bairro_normalizado'])
     
@@ -383,11 +572,12 @@ def main():
     gdf_ocorrencias = ler_ocorrencias(caminho_ocorrencias)
     
     # Contar ocorrências por bairro
-    contagem_total, contagem_por_tipo = contar_ocorrencias_por_bairro(gdf_ocorrencias)
+    contagem_total, contagem_por_tipo, contagem_por_estacao, contagem_por_tipo_estacao = contar_ocorrencias_por_bairro(gdf_ocorrencias)
     
     # Adicionar contagens ao shapefile
     gdf_resultado = adicionar_contagens_ao_shapefile(
-        gdf_bairros, contagem_total, contagem_por_tipo
+        gdf_bairros, contagem_total, contagem_por_tipo, 
+        contagem_por_estacao, contagem_por_tipo_estacao
     )
     
     # Criar diretório de saída se não existir
