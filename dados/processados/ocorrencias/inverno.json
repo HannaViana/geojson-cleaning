@@ -1953,46 +1953,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 1265,
-        "bairro": "Sem bairro",
-        "data_inicio": "2015-09-13 08:36:16+00:00",
-        "data_fim": "2015-09-13 16:11:04+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. borges de medeiros, 2545, lagoa ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2015-09-13",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 1277,
-        "bairro": "Sem bairro",
-        "data_inicio": "2015-09-13 19:14:43+00:00",
-        "data_fim": "2015-09-14 03:20:37+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Estr. da gávea, 611 à 655 - são conrado",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2015-09-13",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2349,26 +2309,6 @@
         "gravidade": "Medio",
         "latitude": -22.9776166,
         "longitude": -43.222537399999965,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2018-08-01",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 32015,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-08-01 21:45:56+00:00",
-        "data_fim": "2018-08-01 22:34:48+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. borges de medeiros, alt. do maconhão - lagoa",
-        "gravidade": "Medio",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2018-08-01",
@@ -5445,26 +5385,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 10272,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-09-20 01:43:56+00:00",
-        "data_fim": "2016-09-20 12:31:43+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua do catete - catete",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-09-20",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -6505,66 +6425,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 31102,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-07-25 01:27:39+00:00",
-        "data_fim": "2018-07-25 05:06:50+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Estrada da barra da tijuca, 1006 - barra da tijuca",
-        "gravidade": "Medio",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2018-07-25",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 31101,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-07-25 01:20:51+00:00",
-        "data_fim": "2018-07-25 05:06:59+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. armando lombardi, alt. estação brt jd oceânico - barra da tijuca",
-        "gravidade": "Medio",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2018-07-25",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 31100,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-07-25 01:16:41+00:00",
-        "data_fim": "2018-07-25 05:07:05+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. armando lombardi, alt. barra point - barra da tijuca",
-        "gravidade": "Medio",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2018-07-25",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -7233,26 +7093,6 @@
         "gravidade": "Baixo",
         "latitude": -22.9503808,
         "longitude": -43.18072240000004,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-06-20",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 17979,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-06-20 23:13:49+00:00",
-        "data_fim": "2017-06-21 01:08:38+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Túnel 450 altura da porta 05 - santo cristo",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2017-06-20",

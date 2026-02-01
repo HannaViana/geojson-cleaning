@@ -171,7 +171,15 @@ def extrair_ocorrencias_por_estacao(data_geojson):
         return dict(ocorrencias_por_estacao)
     
     # Processar cada feature
+    ocorrencias_sem_geometria = 0
+    
     for feature in features:
+        # Filtrar features sem geometria válida (ArcGIS não aceita geometry null)
+        geometry = feature.get('geometry')
+        if geometry is None or not isinstance(geometry, dict) or not geometry.get('coordinates'):
+            ocorrencias_sem_geometria += 1
+            continue
+        
         props = feature.get('properties', {})
         data_valor = props.get(coluna_data_disponivel)
         
@@ -189,6 +197,7 @@ def extrair_ocorrencias_por_estacao(data_geojson):
     
     # Estatísticas
     print(f"\nEstatísticas:")
+    print(f"  - Ocorrências sem geometria válida (filtradas): {ocorrencias_sem_geometria}")
     print(f"  - Ocorrências sem data: {ocorrencias_sem_data}")
     print(f"  - Ocorrências sem estação determinada: {ocorrencias_sem_estacao}")
     print(f"\nOcorrências por estação:")
@@ -267,3 +276,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+

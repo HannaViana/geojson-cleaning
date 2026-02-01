@@ -315,86 +315,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 14851,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-03-03 19:17:56+00:00",
-        "data_fim": "2017-03-03 20:57:02+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua gago coutinho x rua bento lisboa - laranjeiras ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-03-03",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 14853,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-03-03 19:25:06+00:00",
-        "data_fim": "2017-03-03 21:09:54+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua marques de olinda - botafogo ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-03-03",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 14850,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-03-03 19:14:50+00:00",
-        "data_fim": "2017-03-03 21:22:34+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. beira mar - centro ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-03-03",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 14849,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-03-03 18:59:50+00:00",
-        "data_fim": "2017-03-03 21:22:02+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua pedro américo x rua do catete - catete",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-03-03",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -416,26 +336,6 @@
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2017-03-03",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 14923,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-03-06 19:42:16+00:00",
-        "data_fim": "2017-03-06 21:38:43+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Trevo das missões - parada de lucas",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-03-06",
         "prazo_num": ""
       }
     },
@@ -597,26 +497,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 15101,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-03-14 05:00:33+00:00",
-        "data_fim": "2017-03-14 05:48:00+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil - caju",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-03-14",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -661,26 +541,6 @@
         "gravidade": "Baixo",
         "latitude": -22.9770657,
         "longitude": -43.22635969999999,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-03-14",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 15100,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-03-14 04:53:31+00:00",
-        "data_fim": "2017-03-14 05:27:07+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av brasil - manguinhos ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2017-03-14",
@@ -793,26 +653,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 15096,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-03-14 02:34:07+00:00",
-        "data_fim": "2017-03-14 04:21:51+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av brasil - alt rua francisco almeida são cristovão",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-03-14",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -831,26 +671,6 @@
         "gravidade": "Baixo",
         "latitude": -22.8853807,
         "longitude": -43.226628000000005,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-03-14",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 15099,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-03-14 04:52:37+00:00",
-        "data_fim": "2017-03-14 05:48:11+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av brasil - benfica",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2017-03-14",
@@ -1166,26 +986,6 @@
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2018-03-08",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 25532,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-03-15 04:29:49+00:00",
-        "data_fim": "2018-03-15 07:39:56+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av armando lombardi prox. r. aldo bonadei alt. banco santander",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2018-03-15",
         "prazo_num": ""
       }
     },
@@ -2587,26 +2387,6 @@
         "gravidade": "Baixo",
         "latitude": -22.8756161,
         "longitude": -43.4380639,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2021-02-08",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 60734,
-        "bairro": "Realengo",
-        "data_inicio": "2021-02-08 13:10:00+00:00",
-        "data_fim": "2021-02-08 13:51:21+00:00",
-        "prazo": "Curto",
-        "descricao": "Estr. da água branca, alt. estr. porto nacional - realengo ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2021-02-08",
@@ -7477,26 +7257,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 7261,
-        "bairro": "Ramos",
-        "data_inicio": "2024-03-09 20:00:51+00:00",
-        "data_fim": "2024-03-09 21:00:51+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av brasil,  - ramos",
-        "gravidade": "Normal",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2024-03-09",
-        "prazo_num": 79573.0
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -7627,66 +7387,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3486,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-15 19:24:06+00:00",
-        "data_fim": "2016-02-15 20:33:18+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Túnel zuzu angel. ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-15",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3485,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-15 19:22:27+00:00",
-        "data_fim": "2016-02-15 21:16:07+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua mario ribeiro x praça sibelius",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-15",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3474,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-15 16:01:54+00:00",
-        "data_fim": "2016-02-15 16:40:41+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil, alt. ceasa - irajá",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-15",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -7739,46 +7439,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3482,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-15 19:16:08+00:00",
-        "data_fim": "2016-02-15 20:03:59+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua humaita x fonte da saudade",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-15",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3481,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-15 19:02:16+00:00",
-        "data_fim": "2016-02-15 20:12:03+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. pres. vargas - alt. passarela cidade nova",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-15",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -7797,126 +7457,6 @@
         "gravidade": "Baixo",
         "latitude": -22.91372969485949,
         "longitude": -43.23593361667179,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-15",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3487,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-15 19:25:26+00:00",
-        "data_fim": "2016-02-15 20:20:46+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil( manquinhos, benfica e caju)",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-15",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3484,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-15 19:21:26+00:00",
-        "data_fim": "2016-02-15 20:12:21+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua da passagem",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-15",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3483,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-15 19:18:54+00:00",
-        "data_fim": "2016-02-15 20:53:32+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua joaquim palhares x paulo de de frontin",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-15",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3488,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-15 19:27:07+00:00",
-        "data_fim": "2016-02-15 20:39:02+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua do catete x silveira martins",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-15",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3490,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-15 19:30:48+00:00",
-        "data_fim": "2016-02-15 20:55:13+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. epitácio pessoa x vinicius de morais ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-15",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3489,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-15 19:28:08+00:00",
-        "data_fim": "2016-02-15 21:16:56+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Borges de medeiros (retorno para rua humaitá)",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2016-02-15",
@@ -8081,26 +7621,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3509,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-16 18:12:42+00:00",
-        "data_fim": "2016-02-16 20:38:43+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil - barros filho",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-16",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -8127,66 +7647,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3508,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-16 18:10:19+00:00",
-        "data_fim": "2016-02-16 20:38:06+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil - coelho neto",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-16",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3549,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-17 19:32:18+00:00",
-        "data_fim": "2016-02-17 22:24:41+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil, em frente ao shop. guadalupe",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-17",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3553,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-17 19:36:32+00:00",
-        "data_fim": "2016-02-17 22:28:53+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil, alt. deodoro - sent. zona oeste",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-17",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -8208,146 +7668,6 @@
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2016-02-17",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3639,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-19 19:20:59+00:00",
-        "data_fim": "2016-02-19 21:43:23+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil, altura da entrada da ilha.",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-19",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3644,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-19 19:53:09+00:00",
-        "data_fim": "2016-02-19 21:43:51+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil. altura da penha e ramos.",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-19",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3642,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-19 19:44:30+00:00",
-        "data_fim": "2016-02-19 21:42:09+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua eleone de almeida( prox. túnel santa barbara)",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-19",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3641,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-19 19:42:13+00:00",
-        "data_fim": "2016-02-19 21:40:40+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Estrada do catonho, altura do n°4477.",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-19",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3645,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-19 19:54:42+00:00",
-        "data_fim": "2016-02-19 21:50:23+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Borges de medeiros x av. epitácio pessoa",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-19",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3643,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-19 19:51:51+00:00",
-        "data_fim": "2016-02-19 21:43:36+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil. altura da cidade alta",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-19",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3640,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-19 19:39:09+00:00",
-        "data_fim": "2016-02-19 21:40:51+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Túnel santa barbara",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-19",
         "prazo_num": ""
       }
     },
@@ -8483,66 +7803,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3694,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-21 19:36:30+00:00",
-        "data_fim": "2016-02-21 21:53:57+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Aterro. prox. a teixeira de veira e marina da glória.",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-21",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3695,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-21 19:40:06+00:00",
-        "data_fim": "2016-02-21 21:54:06+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. paulo de frontin",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-21",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3686,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-21 18:14:56+00:00",
-        "data_fim": "2016-02-21 21:52:50+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil, alt. irajá",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-21",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -8561,106 +7821,6 @@
         "gravidade": "Baixo",
         "latitude": -22.85025775542104,
         "longitude": -43.30974674285278,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-21",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3701,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-21 20:34:58+00:00",
-        "data_fim": "2016-02-21 22:52:08+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua dos inválidos. altura do n°162",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-21",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3692,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-21 19:34:49+00:00",
-        "data_fim": "2016-02-21 21:53:34+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua muniz barreto ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-21",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3693,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-21 19:35:34+00:00",
-        "data_fim": "2016-02-21 21:53:45+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Viaduto 31 de março. ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-21",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3691,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-21 19:33:15+00:00",
-        "data_fim": "2016-02-21 21:53:20+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua pinheiro machado",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-21",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3690,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-21 19:28:13+00:00",
-        "data_fim": "2016-02-21 22:18:52+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua eleone de almeida, saída do túnel santa barbara ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2016-02-21",
@@ -8721,66 +7881,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3703,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-21 20:42:17+00:00",
-        "data_fim": "2016-02-21 21:47:00+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. presidente vargas, altura da cidade nova.",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-21",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3696,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-21 19:56:27+00:00",
-        "data_fim": "2016-02-22 00:12:41+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua do catete ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-21",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3689,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-21 18:58:40+00:00",
-        "data_fim": "2016-02-21 21:21:48+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. dos italianos x rua dos topázios",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-21",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -8799,46 +7899,6 @@
         "gravidade": "Baixo",
         "latitude": -22.8987523,
         "longitude": -43.20328919999997,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-21",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3699,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-21 20:29:14+00:00",
-        "data_fim": "2016-02-21 22:51:52+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. mem de sá, altura do n°105 ao 146",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-21",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3700,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-21 20:31:02+00:00",
-        "data_fim": "2016-02-21 22:51:59+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua do resende, n°11",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2016-02-21",
@@ -9159,26 +8219,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3707,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-22 07:40:00+00:00",
-        "data_fim": "2016-02-22 12:27:18+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Avenida presidente vargas, 4 - centro",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-22",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9205,66 +8245,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3774,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-23 19:51:33+00:00",
-        "data_fim": "2016-02-23 21:26:56+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil, altura da linha amarela. ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-23",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3775,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-23 20:12:56+00:00",
-        "data_fim": "2016-02-23 21:15:26+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua joão paulo i - estácio ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-23",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3783,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-23 20:40:16+00:00",
-        "data_fim": "2016-02-24 00:18:56+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua campo de são cristóvão ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-23",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9283,66 +8263,6 @@
         "gravidade": "Baixo",
         "latitude": -22.9021966,
         "longitude": -43.20801540000002,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-23",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3777,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-23 20:24:33+00:00",
-        "data_fim": "2016-02-23 22:08:18+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua haddock lobo.",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-23",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3782,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-23 20:34:32+00:00",
-        "data_fim": "2016-02-24 00:18:39+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua general bruce. ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-23",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3778,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-23 20:25:15+00:00",
-        "data_fim": "2016-02-23 21:15:48+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. paulo de frontin  ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2016-02-23",
@@ -9398,26 +8318,6 @@
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2016-02-23",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3818,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-25 17:40:37+00:00",
-        "data_fim": "2016-02-25 18:52:29+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil, guadalupe",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-25",
         "prazo_num": ""
       }
     },
@@ -9527,26 +8427,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3930,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-29 18:02:12+00:00",
-        "data_fim": "2016-02-29 21:02:34+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. 24 de maio, alt. buraco do padre",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-29",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9573,26 +8453,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3929,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-29 17:46:54+00:00",
-        "data_fim": "2016-02-29 22:15:09+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil, alt. passarela 22",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-29",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9611,46 +8471,6 @@
         "gravidade": "Baixo",
         "latitude": -22.92565251862332,
         "longitude": -43.17656482645873,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-29",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3928,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-29 17:44:23+00:00",
-        "data_fim": "2016-02-29 22:14:43+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil - alt. av. washington luis ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-29",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3909,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-29 16:03:58+00:00",
-        "data_fim": "2016-02-29 20:54:43+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. pres. vargas, alt. prefeitura",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2016-02-29",
@@ -9867,46 +8687,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3924,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-29 17:10:10+00:00",
-        "data_fim": "2016-02-29 19:16:21+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua são clemente,226 - botafogo",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-29",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3938,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-29 20:21:50+00:00",
-        "data_fim": "2016-02-29 21:13:59+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua muniz barreto x rua marques de olinda",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-29",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -10037,26 +8817,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3923,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-29 16:57:27+00:00",
-        "data_fim": "2016-02-29 22:14:02+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil - benfica",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-29",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -10101,26 +8861,6 @@
         "gravidade": "Baixo",
         "latitude": -22.8479818,
         "longitude": -43.24750489999997,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-02-29",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3931,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-02-29 18:04:29+00:00",
-        "data_fim": "2016-02-29 21:07:22+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "R. toneleros - alt. r. siqueira campos",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2016-02-29",
@@ -10176,46 +8916,6 @@
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2016-02-29",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 2803,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-01-01 21:19:59+00:00",
-        "data_fim": "2016-01-02 04:09:17+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av ayrton senna-3009-barra",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-01-01",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 2937,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-01-13 17:52:43+00:00",
-        "data_fim": "2016-01-13 21:08:50+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil - guadalupe",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-01-13",
         "prazo_num": ""
       }
     },
@@ -10291,26 +8991,6 @@
         "gravidade": "Baixo",
         "latitude": -23.0039071,
         "longitude": -43.32170080000003,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-01-14",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 2943,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-01-14 07:10:21+00:00",
-        "data_fim": "2016-01-14 07:49:31+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. das américas ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2016-01-14",
@@ -11091,26 +9771,6 @@
         "gravidade": "Baixo",
         "latitude": -22.9068467,
         "longitude": -43.17289649999998,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-01-28",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 3206,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-01-28 15:10:39+00:00",
-        "data_fim": "2016-01-28 17:52:31+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Cesario de melo com maria teresa",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2016-01-28",
@@ -12575,26 +11235,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 31.0,
-        "id_evento": 49276,
-        "bairro": "Catete",
-        "data_inicio": "2019-12-23 15:24:29+00:00",
-        "data_fim": "2019-12-23 17:11:41+00:00",
-        "prazo": "Curto",
-        "descricao": "R. do catete, alt. r. pedro américo - catete",
-        "gravidade": "Medio",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Alagamento",
-        "data_particao": "2019-12-23",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -12746,46 +11386,6 @@
         "status": "Fechado",
         "tipo": "Lâmina d'água",
         "data_particao": "2019-12-23",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 38831,
-        "bairro": "Sem bairro",
-        "data_inicio": "2019-01-25 16:36:02+00:00",
-        "data_fim": "2019-01-25 20:38:59+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. pres. vargas, alt. cass - cidade nova",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2019-01-25",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 38834,
-        "bairro": "Sem bairro",
-        "data_inicio": "2019-01-25 16:51:48+00:00",
-        "data_fim": "2019-01-25 17:49:12+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "R. 24 de maio, alt. r. cônego tobias - méier ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2019-01-25",
         "prazo_num": ""
       }
     },
@@ -13199,26 +11799,6 @@
         "gravidade": "Baixo",
         "latitude": -22.9643142,
         "longitude": -43.21758669999997,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2019-01-25",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 38839,
-        "bairro": "Sem bairro",
-        "data_inicio": "2019-01-25 17:05:01+00:00",
-        "data_fim": "2019-01-25 18:35:13+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "R. do catete, alt. r. pedro américo",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2019-01-25",
@@ -16347,26 +14927,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 6.0,
-        "id_evento": 51893,
-        "bairro": "Santa cruz",
-        "data_inicio": "2020-03-01 13:36:34+00:00",
-        "data_fim": "2020-03-02 12:26:51+00:00",
-        "prazo": "Curto",
-        "descricao": "R. herculano vieira, 41 b - santa cruz",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Alagamento",
-        "data_particao": "2020-03-01",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -17277,26 +15837,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 6.0,
-        "id_evento": 51819,
-        "bairro": "Fazenda botafogo",
-        "data_inicio": "2020-03-01 08:02:36+00:00",
-        "data_fim": "2020-03-01 19:24:41+00:00",
-        "prazo": "Curto",
-        "descricao": "Região de fazenda botafogo",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Alagamento",
-        "data_particao": "2020-03-01",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -17474,66 +16014,6 @@
         "status": "Fechado",
         "tipo": "Alagamento",
         "data_particao": "2020-03-01",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 6.0,
-        "id_evento": 4214,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-03-12 20:06:47+00:00",
-        "data_fim": "2016-03-13 03:19:14+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Praça da bandeira",
-        "gravidade": "Alto",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Alagamento",
-        "data_particao": "2016-03-12",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 6.0,
-        "id_evento": 4215,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-03-12 20:07:14+00:00",
-        "data_fim": "2016-03-13 00:37:07+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua conde de bonfim ",
-        "gravidade": "Alto",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Alagamento",
-        "data_particao": "2016-03-12",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 6.0,
-        "id_evento": 4217,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-03-12 20:16:01+00:00",
-        "data_fim": "2016-03-13 02:00:10+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua jardim botânico x rua pacheco leão",
-        "gravidade": "Alto",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Alagamento",
-        "data_particao": "2016-03-12",
         "prazo_num": ""
       }
     },
@@ -18605,386 +17085,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 4164,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-03-11 06:45:19+00:00",
-        "data_fim": "2016-03-11 09:05:20+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. ernani cardoso x rua padre telêmaco",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-03-11",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 4162,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-03-11 06:31:08+00:00",
-        "data_fim": "2016-03-11 09:23:10+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. américas - 4319",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-03-11",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 4160,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-03-11 06:11:11+00:00",
-        "data_fim": "2016-03-11 09:27:05+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. dom hélder câmara - cascadura ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-03-11",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 4218,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-03-12 20:21:19+00:00",
-        "data_fim": "2016-03-13 03:48:29+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua marquês de são vicente - gávea ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-03-12",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 4233,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-03-12 22:38:34+00:00",
-        "data_fim": "2016-03-13 00:16:52+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. ayrton senna - alt barra music",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-03-12",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 4232,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-03-12 22:37:36+00:00",
-        "data_fim": "2016-03-13 00:17:07+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. ayrton senna - alt do sesc",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-03-12",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 4234,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-03-12 22:39:23+00:00",
-        "data_fim": "2016-03-12 23:13:37+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Linha amarela - alt do nova américa ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-03-12",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 4236,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-03-12 23:13:47+00:00",
-        "data_fim": "2016-03-12 23:50:09+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Linha amarela - alt leopoldo bulhões.  ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-03-12",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 4226,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-03-12 20:55:16+00:00",
-        "data_fim": "2016-03-12 23:23:53+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Buraco do padre",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-03-12",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 4249,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-03-13 05:35:15+00:00",
-        "data_fim": "2016-03-13 10:23:26+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. rotary internacional - são cristóvão ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-03-13",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 4246,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-03-13 01:46:44+00:00",
-        "data_fim": "2016-03-13 04:41:48+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua jardim botânico, alt da praça santos dumont",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-03-13",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 4247,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-03-13 02:00:34+00:00",
-        "data_fim": "2016-03-13 04:00:37+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Autoestrada lagoa-barra, alt do fashion mall. ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-03-13",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 4244,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-03-13 01:17:23+00:00",
-        "data_fim": "2016-03-13 02:55:08+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua mario ribeiro x rua raul machado ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-03-13",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 4252,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-03-13 07:00:05+00:00",
-        "data_fim": "2016-03-13 10:04:11+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua gen. olímpio mourão filho - são conrado",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-03-13",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 4332,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-03-16 15:04:10+00:00",
-        "data_fim": "2016-03-16 18:48:50+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil, alt. realengo",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-03-16",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 4333,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-03-16 15:05:51+00:00",
-        "data_fim": "2016-03-16 18:45:24+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil, alt. shopping guadalupe",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-03-16",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 4328,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-03-16 14:53:34+00:00",
-        "data_fim": "2016-03-16 18:23:20+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. das americas, 4666 - barra da tijuca",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-03-16",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 6.0,
-        "id_evento": 4221,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-03-12 20:41:16+00:00",
-        "data_fim": "2016-03-12 23:54:49+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. maracanã x rua eurico rabelo ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Alagamento",
-        "data_particao": "2016-03-12",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 6.0,
-        "id_evento": 4237,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-03-12 23:20:21+00:00",
-        "data_fim": "2016-03-13 00:17:17+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. além paraíba ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Alagamento",
-        "data_particao": "2016-03-12",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -19003,66 +17103,6 @@
         "gravidade": "Medio",
         "latitude": -22.8957118,
         "longitude": -43.18665750000002,
-        "status": "Fechado",
-        "tipo": "Alagamento",
-        "data_particao": "2016-03-12",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 6.0,
-        "id_evento": 4219,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-03-12 20:24:23+00:00",
-        "data_fim": "2016-03-12 22:47:58+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. marechal floriano x rua acre",
-        "gravidade": "Medio",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Alagamento",
-        "data_particao": "2016-03-12",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 6.0,
-        "id_evento": 4220,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-03-12 20:28:37+00:00",
-        "data_fim": "2016-03-13 00:55:46+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. binário.",
-        "gravidade": "Medio",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Alagamento",
-        "data_particao": "2016-03-12",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 6.0,
-        "id_evento": 4228,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-03-12 21:04:04+00:00",
-        "data_fim": "2016-03-12 23:37:56+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. presidente vargas, alt sambódromo",
-        "gravidade": "Medio",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Alagamento",
         "data_particao": "2016-03-12",
@@ -19327,26 +17367,6 @@
         "tipo": "Bolsão d'água em via",
         "data_particao": "2024-02-21",
         "prazo_num": 79529.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 6290,
-        "bairro": "Sem bairro",
-        "data_inicio": "2024-02-21 23:15:38+00:00",
-        "data_fim": "2024-02-22 00:15:38+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av santa cruz,  - ",
-        "gravidade": "Normal",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2024-02-21",
-        "prazo_num": 77889.2
       }
     },
     {
@@ -20703,26 +18723,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 5905,
-        "bairro": "Ramos",
-        "data_inicio": "2024-02-14 23:18:12+00:00",
-        "data_fim": "2024-02-15 00:18:12+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av brasil,  - ramos",
-        "gravidade": "Normal",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2024-02-14",
-        "prazo_num": 76551.0
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -20823,26 +18823,6 @@
         "tipo": "Bolsão d'água em via",
         "data_particao": "2024-02-15",
         "prazo_num": 78834.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 6288,
-        "bairro": "Sem bairro",
-        "data_inicio": "2024-02-21 22:40:29+00:00",
-        "data_fim": "2024-02-21 23:40:29+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av brasil,  - ",
-        "gravidade": "Normal",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2024-02-21",
-        "prazo_num": 77889.2
       }
     },
     {
@@ -21466,26 +19446,6 @@
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2021-03-06",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 61763,
-        "bairro": "Bonsucesso",
-        "data_inicio": "2021-03-16 16:08:51+00:00",
-        "data_fim": "2021-03-16 19:13:45+00:00",
-        "prazo": "Curto",
-        "descricao": "Av. brasil - bonsucesso - sent. z. oeste",
-        "gravidade": "Medio",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2021-03-16",
         "prazo_num": ""
       }
     },
@@ -25781,86 +23741,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 40313,
-        "bairro": "Sem bairro",
-        "data_inicio": "2019-03-03 18:05:57+00:00",
-        "data_fim": "2019-03-03 20:28:24+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. braz de pina, alt. jacarau - penha circular",
-        "gravidade": "Alto",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2019-03-03",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 40326,
-        "bairro": "Sem bairro",
-        "data_inicio": "2019-03-03 18:47:18+00:00",
-        "data_fim": "2019-03-03 21:52:45+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. epitácio pessoa, alr. r. maria quitéria - lagoa",
-        "gravidade": "Alto",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2019-03-03",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 40336,
-        "bairro": "Sem bairro",
-        "data_inicio": "2019-03-03 19:40:16+00:00",
-        "data_fim": "2019-03-03 20:43:44+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "R. mário ribeiro, alt. r. ministro raul machado - leblon",
-        "gravidade": "Alto",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2019-03-03",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 40332,
-        "bairro": "Sem bairro",
-        "data_inicio": "2019-03-03 19:14:28+00:00",
-        "data_fim": "2019-03-04 04:22:23+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Estr. do galeão, alt. av. 20 de janeiro",
-        "gravidade": "Alto",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2019-03-03",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -25913,26 +23793,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 40320,
-        "bairro": "Sem bairro",
-        "data_inicio": "2019-03-03 18:28:27+00:00",
-        "data_fim": "2019-03-03 20:41:17+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "R. real grandeza, alt. r. general polidoro - botafogo",
-        "gravidade": "Alto",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2019-03-03",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -25959,86 +23819,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 40323,
-        "bairro": "Sem bairro",
-        "data_inicio": "2019-03-03 18:36:57+00:00",
-        "data_fim": "2019-03-03 21:49:06+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Estr. lagoa - barra, alt. rocinha - s. conrado",
-        "gravidade": "Alto",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2019-03-03",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 40328,
-        "bairro": "Sem bairro",
-        "data_inicio": "2019-03-03 18:51:31+00:00",
-        "data_fim": "2019-03-03 20:40:08+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. afrânio de melo franco, alt. r. gilberto cardoso - leblon",
-        "gravidade": "Alto",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2019-03-03",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 40322,
-        "bairro": "Sem bairro",
-        "data_inicio": "2019-03-03 18:35:07+00:00",
-        "data_fim": "2019-03-03 20:35:43+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua jardim botânico, alt. r. pacheco leão - jardim botânico",
-        "gravidade": "Alto",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2019-03-03",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 40327,
-        "bairro": "Sem bairro",
-        "data_inicio": "2019-03-03 18:49:12+00:00",
-        "data_fim": "2019-03-03 18:50:17+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. afrânio de melo franco, alt. gilberto cardoso - leblon",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2019-03-03",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -26057,66 +23837,6 @@
         "gravidade": "Baixo",
         "latitude": -22.9643142,
         "longitude": -43.21758669999997,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2019-03-03",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 40330,
-        "bairro": "Sem bairro",
-        "data_inicio": "2019-03-03 18:59:01+00:00",
-        "data_fim": "2019-03-03 20:36:20+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "R. jardim botânico, alt. parque lage",
-        "gravidade": "Alto",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2019-03-03",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 40319,
-        "bairro": "Sem bairro",
-        "data_inicio": "2019-03-03 18:25:18+00:00",
-        "data_fim": "2019-03-03 22:13:40+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua voluntários da pátria, alt. r. nelson mandela - botafogo",
-        "gravidade": "Alto",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2019-03-03",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 40316,
-        "bairro": "Sem bairro",
-        "data_inicio": "2019-03-03 18:15:02+00:00",
-        "data_fim": "2019-03-03 23:24:49+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil, alt. fiocruz - manguinhos",
-        "gravidade": "Alto",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2019-03-03",
@@ -26177,26 +23897,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 40333,
-        "bairro": "Sem bairro",
-        "data_inicio": "2019-03-03 19:18:35+00:00",
-        "data_fim": "2019-03-03 20:45:35+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "R. rad. waldir amaral, alt. r. s. fco. xavier - maracanã",
-        "gravidade": "Alto",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2019-03-03",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -26223,26 +23923,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 40335,
-        "bairro": "Sem bairro",
-        "data_inicio": "2019-03-03 19:33:55+00:00",
-        "data_fim": "2019-03-03 20:44:31+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "R. barão de mesquita, alt. r. josé higino - maracanã",
-        "gravidade": "Alto",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2019-03-03",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -26261,26 +23941,6 @@
         "gravidade": "Alto",
         "latitude": -22.9743299,
         "longitude": -43.20643889999997,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2019-03-03",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 40329,
-        "bairro": "Sem bairro",
-        "data_inicio": "2019-03-03 18:54:37+00:00",
-        "data_fim": "2019-03-03 20:39:09+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. borges de medeiros, alt. r. saturnino de brito - lagoa",
-        "gravidade": "Alto",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2019-03-03",
@@ -26333,26 +23993,6 @@
         "gravidade": "Alto",
         "latitude": -22.92706,
         "longitude": -43.238516300000015,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2019-03-03",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 40321,
-        "bairro": "Sem bairro",
-        "data_inicio": "2019-03-03 18:31:15+00:00",
-        "data_fim": "2019-03-03 20:32:55+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Praça sibélius - gávea",
-        "gravidade": "Alto",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2019-03-03",
@@ -27427,26 +25067,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 40796,
-        "bairro": "Sem bairro",
-        "data_inicio": "2019-03-15 13:37:19+00:00",
-        "data_fim": "2019-03-15 15:44:39+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av brasil - passarela 14 ",
-        "gravidade": "Medio",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2019-03-15",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -28409,46 +26029,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 31.0,
-        "id_evento": 40324,
-        "bairro": "Sem bairro",
-        "data_inicio": "2019-03-03 18:40:56+00:00",
-        "data_fim": "2019-03-03 20:38:52+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. paulo de frontin - rio comprido",
-        "gravidade": "Alto",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Alagamento",
-        "data_particao": "2019-03-03",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 31.0,
-        "id_evento": 40331,
-        "bairro": "Sem bairro",
-        "data_inicio": "2019-03-03 19:10:46+00:00",
-        "data_fim": "2019-03-03 20:14:49+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. maracanã, alt. r. eurico rabelo - maracanã",
-        "gravidade": "Alto",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Alagamento",
-        "data_particao": "2019-03-03",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -28519,26 +26099,6 @@
         "gravidade": "Baixo",
         "latitude": -22.9747026,
         "longitude": -43.335844899999984,
-        "status": "Fechado",
-        "tipo": "Alagamento",
-        "data_particao": "2019-03-11",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 31.0,
-        "id_evento": 40634,
-        "bairro": "Sem bairro",
-        "data_inicio": "2019-03-11 06:36:58+00:00",
-        "data_fim": "2019-03-11 08:29:36+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Muzema - rio das pedras",
-        "gravidade": "Medio",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Alagamento",
         "data_particao": "2019-03-11",
@@ -31537,26 +29097,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 39673,
-        "bairro": "Sem bairro",
-        "data_inicio": "2019-02-13 07:48:38+00:00",
-        "data_fim": "2019-02-13 11:29:02+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil, alt. parada de lucas",
-        "gravidade": "Medio",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2019-02-13",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -33247,26 +30787,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 31.0,
-        "id_evento": 39286,
-        "bairro": "Sem bairro",
-        "data_inicio": "2019-02-05 11:57:23+00:00",
-        "data_fim": "2019-02-05 22:43:39+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Muzema",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Alagamento",
-        "data_particao": "2019-02-05",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -33917,26 +31437,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 23389,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-01-04 19:56:39+00:00",
-        "data_fim": "2018-01-04 22:45:36+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Avenida brasil, alt. do viaduto de p. de lucas - parada de lucas",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2018-01-04",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -34163,26 +31663,6 @@
         "gravidade": "Baixo",
         "latitude": -23.006940556502368,
         "longitude": -43.30282274019777,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2018-01-07",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 23461,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-01-07 21:35:07+00:00",
-        "data_fim": "2018-01-07 21:44:00+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Mergulhão billy blanco y- barra da tijuca",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2018-01-07",
@@ -34729,46 +32209,6 @@
         "gravidade": "Baixo",
         "latitude": -22.9024414,
         "longitude": -43.26846949999998,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2018-01-08",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 23532,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-01-08 20:46:56+00:00",
-        "data_fim": "2018-01-09 00:33:21+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Avenida brasil, alt. do bpve - parada de lucas",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2018-01-08",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 23529,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-01-08 19:41:41+00:00",
-        "data_fim": "2018-01-09 00:23:51+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Avenida brasil, alt. rod. washington luís - cidade alta",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2018-01-08",
@@ -35635,26 +33075,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 24036,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-01-26 18:59:52+00:00",
-        "data_fim": "2018-01-26 19:39:16+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "R. leopoldo bulhões, alt. da av. dom helder câmara - benfica",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2018-01-26",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -35699,26 +33119,6 @@
         "gravidade": "Baixo",
         "latitude": -22.9084387,
         "longitude": -43.57315849999998,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2018-01-26",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 24041,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-01-26 20:02:48+00:00",
-        "data_fim": "2018-01-26 21:41:13+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. santa cruz, alt. do cavalo de aço - santíssimo",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2018-01-26",
@@ -36715,26 +34115,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 31.0,
-        "id_evento": 23903,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-01-22 19:21:46+00:00",
-        "data_fim": "2018-01-23 01:27:27+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. santa cruz, alt. da estação ferroviária - bangu",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Alagamento",
-        "data_particao": "2018-01-22",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -37588,26 +34968,6 @@
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2020-12-26",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 59341,
-        "bairro": "Benfica",
-        "data_inicio": "2020-12-25 20:30:58+00:00",
-        "data_fim": "2020-12-25 23:03:31+00:00",
-        "prazo": "Curto",
-        "descricao": "Av. brasil - alt. viaduto ataulfo alves - sent. centro ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2020-12-25",
         "prazo_num": ""
       }
     },
@@ -38705,46 +36065,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13026,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-12-21 21:58:28+00:00",
-        "data_fim": "2016-12-21 22:41:31+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua da feira x rua dos açudes - padre miguel ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-12-21",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13064,
-        "bairro": "Sem bairro",
-        "data_inicio": "2016-12-23 10:46:06+00:00",
-        "data_fim": "2016-12-23 12:16:47+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Mergulhão - av. armando lombardi - barra",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2016-12-23",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -39551,26 +36871,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 5031,
-        "bairro": "Riachuelo",
-        "data_inicio": "2024-01-31 18:37:56+00:00",
-        "data_fim": "2024-01-31 19:37:56+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Burado do padre,  - riachuelo",
-        "gravidade": "Normal",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2024-01-31",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -39667,26 +36967,6 @@
         "gravidade": "Normal",
         "latitude": -22.8188473,
         "longitude": -43.2222662,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2024-01-31",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 5044,
-        "bairro": "Ramos",
-        "data_inicio": "2024-01-31 19:35:00+00:00",
-        "data_fim": "2024-01-31 20:35:00+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil,  - ramos",
-        "gravidade": "Normal",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2024-01-31",
@@ -45909,86 +43189,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13376,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-05 21:51:02+00:00",
-        "data_fim": "2017-01-05 22:38:34+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua  muniz barreto x marquês de olinda - botafogo",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-05",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13368,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-05 21:29:38+00:00",
-        "data_fim": "2017-01-05 23:54:43+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av borges de medeiros, alt  rua prof. eduardo lobo",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-05",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13379,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-05 22:11:41+00:00",
-        "data_fim": "2017-01-05 23:13:15+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av.paranapuã x rua capanema - ilha do governador",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-05",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13369,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-05 21:31:55+00:00",
-        "data_fim": "2017-01-05 22:28:59+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av pasteur x av. portugal",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-05",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -46007,86 +43207,6 @@
         "gravidade": "Baixo",
         "latitude": -23.0205431,
         "longitude": -43.50017709999997,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-05",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13371,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-05 21:38:57+00:00",
-        "data_fim": "2017-01-06 00:49:19+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua campo grande,1204 - campo grande",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-05",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13363,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-05 20:15:23+00:00",
-        "data_fim": "2017-01-05 22:22:49+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Ruas genaro de carvalho x av. gilka machado - recreio",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-05",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13373,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-05 21:43:52+00:00",
-        "data_fim": "2017-01-06 00:49:04+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Est do mendanha - campo grande",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-05",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13374,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-05 21:45:46+00:00",
-        "data_fim": "2017-01-06 00:48:57+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua cesário de melo × pina rangel - campo grande",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2017-01-05",
@@ -46173,46 +43293,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13372,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-05 21:41:08+00:00",
-        "data_fim": "2017-01-06 00:49:11+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua monteiro × cesário de melo - campo grande",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-05",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13375,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-05 21:49:03+00:00",
-        "data_fim": "2017-01-06 00:48:48+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua cesário de melo × est. do cabuçu - campo grande",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-05",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -46234,26 +43314,6 @@
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2017-01-05",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13426,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-07 19:20:23+00:00",
-        "data_fim": "2017-01-07 22:48:43+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil - trevo das margaridas ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-07",
         "prazo_num": ""
       }
     },
@@ -46459,26 +43519,6 @@
         "gravidade": "Baixo",
         "latitude": -22.8957059,
         "longitude": -43.1866751,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-12",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13604,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-12 20:51:22+00:00",
-        "data_fim": "2017-01-12 21:34:10+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua ibiapina x rua tomás ribeiro - penha ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2017-01-12",
@@ -46851,226 +43891,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13707,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-16 20:51:34+00:00",
-        "data_fim": "2017-01-16 21:40:33+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua teodoro da silva x rua alexandre calaza - vila isabel ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-16",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13696,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-16 19:40:16+00:00",
-        "data_fim": "2017-01-16 21:25:43+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil - alt de ramos",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-16",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13701,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-16 20:06:43+00:00",
-        "data_fim": "2017-01-16 20:30:44+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Boulevard 28 de setembro x rua são francisco xavier - maracanã",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-16",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13694,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-16 19:13:22+00:00",
-        "data_fim": "2017-01-16 22:35:31+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. das américas x rua professor alfredo colombo - recreio dos bandeirantes",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-16",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13698,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-16 19:50:53+00:00",
-        "data_fim": "2017-01-16 20:55:24+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua 24 de maio x rua bela vista",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-16",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13693,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-16 19:07:41+00:00",
-        "data_fim": "2017-01-16 20:32:50+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. genaro de carvalho x rua joaquim jose couto - recreio dos bandeirantes",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-16",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13702,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-16 20:10:16+00:00",
-        "data_fim": "2017-01-16 20:30:06+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua visc. de santa isabel x rua barão de são francisco - vila isabel ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-16",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13692,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-16 19:03:43+00:00",
-        "data_fim": "2017-01-16 22:36:19+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. das américas, 13.701 - recreio dos bandeirantes, ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-16",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13697,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-16 19:43:53+00:00",
-        "data_fim": "2017-01-16 20:31:28+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. dom helder câmara x rua leopoldo bulhões - benfica ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-16",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13703,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-16 20:13:34+00:00",
-        "data_fim": "2017-01-16 21:21:47+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil - alt do caju ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-16",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13791,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-19 18:30:52+00:00",
-        "data_fim": "2017-01-19 23:11:07+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil - guadalupe - alt. passarela 33",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-19",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -47201,46 +44021,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13813,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-20 19:33:09+00:00",
-        "data_fim": "2017-01-20 19:40:41+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. genaro de carvalho, 1513 - recreio dos bandeirantes",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-20",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13815,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-20 19:39:20+00:00",
-        "data_fim": "2017-01-20 19:41:31+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. das américas, 7607 - barra da tijuca",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-20",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -47267,46 +44047,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13845,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-22 21:17:25+00:00",
-        "data_fim": "2017-01-22 23:23:38+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. vicente de carvalho - vila cosmos",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-22",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13847,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-22 21:29:24+00:00",
-        "data_fim": "2017-01-22 22:40:49+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av brasil - penha",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-22",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -47325,66 +44065,6 @@
         "gravidade": "Baixo",
         "latitude": -22.8381584,
         "longitude": -43.2853811,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-22",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13842,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-22 20:53:47+00:00",
-        "data_fim": "2017-01-22 22:56:02+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Estrada do galeão  - ilha do governador",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-22",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13846,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-22 21:21:09+00:00",
-        "data_fim": "2017-01-22 23:49:35+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av brasil - penha",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-22",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13844,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-22 21:12:09+00:00",
-        "data_fim": "2017-01-22 22:19:08+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brás de pina-irajá",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2017-01-22",
@@ -47445,26 +44125,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 13923,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-25 19:29:00+00:00",
-        "data_fim": "2017-01-25 21:02:49+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. niemeyer - são conrado,",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-25",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -47486,26 +44146,6 @@
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2017-01-25",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 14055,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-30 18:56:24+00:00",
-        "data_fim": "2017-01-30 21:01:23+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil - alt de realengo ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2017-01-30",
         "prazo_num": ""
       }
     },
@@ -47610,26 +44250,6 @@
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2017-01-31",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 6.0,
-        "id_evento": 13605,
-        "bairro": "Sem bairro",
-        "data_inicio": "2017-01-12 21:02:18+00:00",
-        "data_fim": "2017-01-12 23:20:44+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil - alt de ramos ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Alagamento",
-        "data_particao": "2017-01-12",
         "prazo_num": ""
       }
     },
@@ -49143,26 +45763,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 59496,
-        "bairro": "Jardim botânico",
-        "data_inicio": "2021-01-02 10:28:18+00:00",
-        "data_fim": "2021-01-02 12:07:03+00:00",
-        "prazo": "Curto",
-        "descricao": "Rua jardim botânico - alt. pacheco leão - jardim botânico",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2021-01-02",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -49964,26 +46564,6 @@
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2020-02-21",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 51049,
-        "bairro": "Catete",
-        "data_inicio": "2020-02-10 17:20:12+00:00",
-        "data_fim": "2020-02-10 17:55:57+00:00",
-        "prazo": "Curto",
-        "descricao": "R. do catete - alt. rua pedro américo - catete",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2020-02-10",
         "prazo_num": ""
       }
     },
@@ -51437,26 +48017,6 @@
         "gravidade": "Baixo",
         "latitude": -22.8278692,
         "longitude": -43.2503136,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2020-02-01",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 50578,
-        "bairro": "Galeão",
-        "data_inicio": "2020-02-01 18:22:06+00:00",
-        "data_fim": "2020-02-01 20:24:19+00:00",
-        "prazo": "Curto",
-        "descricao": "Linha vermelha - km 14 - sent. centro",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2020-02-01",
@@ -54213,26 +50773,6 @@
         "gravidade": "Baixo",
         "latitude": -23.0066933,
         "longitude": -43.3106674,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2020-02-10",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 51020,
-        "bairro": "Barra da tijuca",
-        "data_inicio": "2020-02-10 15:27:42+00:00",
-        "data_fim": "2020-02-10 17:13:48+00:00",
-        "prazo": "Curto",
-        "descricao": "Av. armando lombardi, alt. acesso barra point - barra da tijuca - sent. recreio",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2020-02-10",
@@ -58817,26 +55357,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 91127,
-        "bairro": "São cristóvão",
-        "data_inicio": "2023-02-15 20:28:03+00:00",
-        "data_fim": "2023-02-15 21:10:15+00:00",
-        "prazo": "Curto",
-        "descricao": "Rua bela - alt. n° 909",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2023-02-15",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -58936,26 +55456,6 @@
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2023-02-15",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 90424,
-        "bairro": "Ilha do governador",
-        "data_inicio": "2023-02-07 18:41:29+00:00",
-        "data_fim": "2023-02-07 18:59:09+00:00",
-        "prazo": "Curto",
-        "descricao": "R. moravia - cocotá",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2023-02-07",
         "prazo_num": ""
       }
     },
@@ -59611,26 +56111,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 6.0,
-        "id_evento": 24621,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-02-15 00:51:50+00:00",
-        "data_fim": "2018-02-15 04:37:18+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua prof. manoel de abreu, alt. da r. felipe camarão - tijuca",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Alagamento",
-        "data_particao": "2018-02-15",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -59761,26 +56241,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 24688,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-02-15 11:47:18+00:00",
-        "data_fim": "2018-02-15 12:25:00+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil, 7901 (alt. borgauto) - ramos",
-        "gravidade": "Medio",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2018-02-15",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -59851,26 +56311,6 @@
         "gravidade": "Baixo",
         "latitude": -22.9328904,
         "longitude": -43.37098850000001,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2018-02-15",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 24619,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-02-15 00:14:10+00:00",
-        "data_fim": "2018-02-15 04:41:49+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. ayrton senna, alt. do acesso à linha amarela - gardênia azul",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2018-02-15",
@@ -60191,66 +56631,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 24941,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-02-21 23:00:22+00:00",
-        "data_fim": "2018-02-22 05:41:59+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. atlântica, alt. da r. siqueira campos - copacabana",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2018-02-21",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 24947,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-02-22 00:55:55+00:00",
-        "data_fim": "2018-02-22 09:27:36+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua farani, alt. da r. da praia - flamengo",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2018-02-22",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 24957,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-02-22 04:26:03+00:00",
-        "data_fim": "2018-02-22 09:28:39+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. pres. vargas, alt. do cass - cidade nova",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2018-02-22",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -60295,26 +56675,6 @@
         "gravidade": "Baixo",
         "latitude": -22.925266,
         "longitude": -43.173734999999965,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2018-02-22",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 24958,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-02-22 04:46:29+00:00",
-        "data_fim": "2018-02-22 09:17:51+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil, alt. do into - são cristovão",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2018-02-22",
@@ -60453,66 +56813,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 24953,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-02-22 02:16:50+00:00",
-        "data_fim": "2018-02-22 06:34:03+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil, alt. do viaduto ataulfo alves - benfica ",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2018-02-22",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 24946,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-02-22 00:51:43+00:00",
-        "data_fim": "2018-02-22 09:28:17+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua farani, alt. da r. senador vergueiro - flamengo",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2018-02-22",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 24955,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-02-22 03:01:21+00:00",
-        "data_fim": "2018-02-22 10:55:36+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil, alt. da r. teixeira ribeiro - ramos",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2018-02-22",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -60531,26 +56831,6 @@
         "gravidade": "Baixo",
         "latitude": -22.8988191,
         "longitude": -43.243717100000026,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2018-02-22",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 24948,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-02-22 01:09:09+00:00",
-        "data_fim": "2018-02-22 04:40:25+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil, alt. do canal do cunha - manguinhos",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2018-02-22",
@@ -61001,26 +57281,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 25045,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-02-23 19:07:29+00:00",
-        "data_fim": "2018-02-23 21:15:22+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. pedro ii, alt. da r. figueira de melo - são cristóvão",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2018-02-23",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -61039,26 +57299,6 @@
         "gravidade": "Baixo",
         "latitude": -22.9770657,
         "longitude": -43.22635969999999,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2018-02-27",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 25149,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-02-27 20:15:14+00:00",
-        "data_fim": "2018-02-27 22:41:26+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. pres. vargas, alt. do cass - cidade nova",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2018-02-27",
@@ -61145,66 +57385,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 25139,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-02-27 18:32:01+00:00",
-        "data_fim": "2018-02-27 20:53:03+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. brasil, alt. do canal do cunha - manguinhos",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2018-02-27",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 25141,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-02-27 19:07:10+00:00",
-        "data_fim": "2018-02-27 20:53:44+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Praça da bandeira, alt. da saída da reversível - praça da bandeira",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2018-02-27",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 25147,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-02-27 19:55:07+00:00",
-        "data_fim": "2018-02-27 21:23:06+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. mem de sá, alt. da r. dos inválidos - centro",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2018-02-27",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -61223,26 +57403,6 @@
         "gravidade": "Baixo",
         "latitude": -22.8750762,
         "longitude": -43.51339719999999,
-        "status": "Fechado",
-        "tipo": "Bolsão d'água em via",
-        "data_particao": "2018-02-27",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 5.0,
-        "id_evento": 25143,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-02-27 19:30:33+00:00",
-        "data_fim": "2018-02-27 21:16:55+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua dr. satamini, alt. da r. campos sales - tijuca",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Bolsão d'água em via",
         "data_particao": "2018-02-27",
@@ -61355,26 +57515,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 31.0,
-        "id_evento": 24623,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-02-15 01:13:05+00:00",
-        "data_fim": "2018-02-15 04:38:14+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Av. maracanã, alt. r. eurico rabelo - maracanã",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Alagamento",
-        "data_particao": "2018-02-15",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -61448,46 +57588,6 @@
         "status": "Fechado",
         "tipo": "Alagamento",
         "data_particao": "2018-02-17",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 31.0,
-        "id_evento": 24936,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-02-21 22:13:24+00:00",
-        "data_fim": "2018-02-22 05:59:50+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua da glória, alt. da r. benjamin constant - catete",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Alagamento",
-        "data_particao": "2018-02-21",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 31.0,
-        "id_evento": 24932,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-02-21 21:50:13+00:00",
-        "data_fim": "2018-02-22 05:55:13+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Estrada dos bandeirantes, alt. do costa azul - vargem pequena",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Alagamento",
-        "data_particao": "2018-02-21",
         "prazo_num": ""
       }
     },
@@ -61623,26 +57723,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 31.0,
-        "id_evento": 24939,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-02-21 22:33:14+00:00",
-        "data_fim": "2018-02-22 05:51:59+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua senador vergueiro, alt. da r. paissandu - flamengo",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Alagamento",
-        "data_particao": "2018-02-21",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -61695,26 +57775,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 31.0,
-        "id_evento": 25040,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-02-23 18:41:14+00:00",
-        "data_fim": "2018-02-23 20:03:53+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua professor gabizo, alt. da afonso pena - maracanã",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Alagamento",
-        "data_particao": "2018-02-23",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -61733,66 +57793,6 @@
         "gravidade": "Baixo",
         "latitude": -22.8050856,
         "longitude": -43.19712470000002,
-        "status": "Fechado",
-        "tipo": "Alagamento",
-        "data_particao": "2018-02-23",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 31.0,
-        "id_evento": 25038,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-02-23 18:26:34+00:00",
-        "data_fim": "2018-02-23 19:22:43+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua josé higino, alt. da r. barão de mesquita - andarai",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Alagamento",
-        "data_particao": "2018-02-23",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 31.0,
-        "id_evento": 25034,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-02-23 16:58:21+00:00",
-        "data_fim": "2018-02-23 20:04:29+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Passagem subterrânea - botafogo",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Alagamento",
-        "data_particao": "2018-02-23",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 31.0,
-        "id_evento": 25039,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-02-23 18:32:25+00:00",
-        "data_fim": "2018-02-23 21:16:19+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua maria amália, alt. da r. josé higino - andarai",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Alagamento",
         "data_particao": "2018-02-23",
@@ -61827,26 +57827,6 @@
     },
     {
       "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 31.0,
-        "id_evento": 25041,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-02-23 18:46:03+00:00",
-        "data_fim": "2018-02-23 19:34:44+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua dr. satamini, alt. da r. campos sales - tijuca",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
-        "status": "Fechado",
-        "tipo": "Alagamento",
-        "data_particao": "2018-02-23",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -61865,26 +57845,6 @@
         "gravidade": "Baixo",
         "latitude": -22.9740275,
         "longitude": -43.3325395,
-        "status": "Fechado",
-        "tipo": "Alagamento",
-        "data_particao": "2018-02-23",
-        "prazo_num": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": null,
-      "properties": {
-        "id_pop": 31.0,
-        "id_evento": 25037,
-        "bairro": "Sem bairro",
-        "data_inicio": "2018-02-23 18:19:35+00:00",
-        "data_fim": "2018-02-23 20:42:22+00:00",
-        "prazo": "Desconhecido",
-        "descricao": "Rua bela, alt. do campo de são cristóvão - são cristóvão",
-        "gravidade": "Baixo",
-        "latitude": null,
-        "longitude": null,
         "status": "Fechado",
         "tipo": "Alagamento",
         "data_particao": "2018-02-23",
